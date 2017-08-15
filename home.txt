@@ -5,7 +5,7 @@
 <channel>
 <name>Live TV</name>
 <thumbnail>http://blog.skystreamx.com/wp-content/uploads/2016/03/Kodi-Live-Streaming.png</thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/abelcustoms/Television/master/tele.m3u</externallink>
 <fanart>http://i.imgur.com/CfIgcEV.jpg</fanart>
 <info></info>
 </channel>
@@ -13,7 +13,7 @@
 <channel>
 <name>Movies</name>
 <thumbnail>http://1.bp.blogspot.com/-ULg13Ft0eLM/UfhZuGLRf9I/AAAAAAABD3k/MY0i5hWYlGE/s1600/megamente-gifs+linda+lima+(9).jpg</thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/abelcustoms/Television/master/peliculas.m3u</externallink>
 <fanart>http://i.imgur.com/CfIgcEV.jpg</fanart>
 <info></info>
 </channel>

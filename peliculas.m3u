@@ -1,8 +1,5 @@
 ﻿#EXTM3U
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://vercanalestv.com/logos/eurosport-logo.png" tvg-name="UK Eurosports"  group-title="Sports",UK Eurosports
-http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
-
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://bit.ly/2nPBMw1" tvg-name="Viernes 13 7"  group-title="Peliculas",Viernes 13 7
 https://1.bp.blogspot.com/Q31-r4H2ApNv8fKyiPjzL-a_JmjneoFE4lg3rzpjQA=m37
 

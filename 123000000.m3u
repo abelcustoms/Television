@@ -1,1460 +1,1460 @@
 #EXTM3U
 
 #EXTINF:0,3 - 101 españa
-udp://@http://cls.todostreaming.eu/101tv/livestream2/chunklist.m3u8
+http://cls.todostreaming.eu/101tv/livestream2/chunklist.m3u8
 
 #EXTINF:0,4 - 1COLOSAL COSTARICA
-udp://@http://k3.usastreams.com:1935/colosaltv1/colosaltv1/chunklist.m3u8
+http://k3.usastreams.com:1935/colosaltv1/colosaltv1/chunklist.m3u8
 
 #EXTINF:0,5 - 360 TV
-udp://@http://ar.watcha.live/ch12/hi.m3u8
+http://ar.watcha.live/ch12/hi.m3u8
 
 #EXTINF:0,6 - A24 HD
-udp://@http://ar.watcha.live/ch2/hi.m3u8
+http://ar.watcha.live/ch2/hi.m3u8
 
 #EXTINF:0,7 - A3SERIES HD
-udp://@http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-b.m3u8?sd=10&rebase=on
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-b.m3u8?sd=10&rebase=on
 
 #EXTINF:0,8 - ADN 40
-udp://@http://aztecalive-lh.akamaihd.net/i/0qeij0bji_1@26639/master.m3u8
+http://aztecalive-lh.akamaihd.net/i/0qeij0bji_1@26639/master.m3u8
 
 #EXTINF:0,9 - ALERTA TV
-udp://@http://server1.alertacableaccion.com:1935/live/dvr/chunklist_w1050454875.m3u8
+http://server1.alertacableaccion.com:1935/live/dvr/chunklist_w1050454875.m3u8
 
 #EXTINF:0,10 - All Sports
-udp://@http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
 
 #EXTINF:0,11 - AMC
-udp://@http://23.237.22.2:8080/lstream4/526/10/5bac2479610bead6bf7939891285f5fd/444.flv
+http://23.237.22.2:8080/lstream4/526/10/5bac2479610bead6bf7939891285f5fd/444.flv
 
 #EXTINF:0,12 - América HD
-udp://@http://ar.watcha.live/ch3/hi.m3u8
+http://ar.watcha.live/ch3/hi.m3u8
 
 #EXTINF:0,13 - ANEXIÓN TV
-udp://@http://rtmp.info:1935/anexiontv/envivo/chunklist.m3u8
+http://rtmp.info:1935/anexiontv/envivo/chunklist.m3u8
 
 #EXTINF:0,14 - Animal Planet
-udp://@http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/373.flv
+http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/373.flv
 
 #EXTINF:0,15 - Animal Planet USA
-udp://@http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
+http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
 
 #EXTINF:0,16 - Anime TV
-udp://@http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
 
 #EXTINF:0,17 - 18 Antena 3
-udp://@http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8?iptvgratis?chile.m3u8
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8?iptvgratis?chile.m3u8
 
 #EXTINF:0,18 - Antena 3 Internacional
-udp://@http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8?tecnotv.info?iptv.m3u8
+http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8?tecnotv.info?iptv.m3u8
 
 #EXTINF:0,19 - ARICA TV
-udp://@http://wow1.dallas.digitalproserver.com/aricatv/aricatvvivo/aricatv.smil/chunklist_w513272408_b848000.m3u8
+http://wow1.dallas.digitalproserver.com/aricatv/aricatvvivo/aricatv.smil/chunklist_w513272408_b848000.m3u8
 
 #EXTINF:0,20 - Atreseries
-udp://@http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
 
 #EXTINF:0,21 - Atreseries
-udp://@http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-b.m3u8?iptvgratis?chile.m3u8
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-b.m3u8?iptvgratis?chile.m3u8
 
 #EXTINF:0,22 - Atreseries
-udp://@http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_1_av-p.m3u8?sd=10&rebase=on
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_1_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:0,23 - ATRESERIES HD
-udp://@http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_2_av-b.m3u8?sd=10&amp;rebase=on
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_2_av-b.m3u8?sd=10&amp;rebase=on
 
 #EXTINF:0,24 - AXN 2
-udp://@http://23.237.22.2:8080/lstream4/404/10/787f871133435e47a2e14ab464387153/213.flv
+http://23.237.22.2:8080/lstream4/404/10/787f871133435e47a2e14ab464387153/213.flv
 
 #EXTINF:0,25 - Azteca 7
-udp://@http://209.126.116.177:2086/107azteca7/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+http://209.126.116.177:2086/107azteca7/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
 
 #EXTINF:0,26 - Azteca 7 HD
-udp://@http://www.radiosargentina.com.ar/php/tvm3u.php?id=AZMX0068
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=AZMX0068
 
 #EXTINF:0,27 - Ancha TV
-udp://@https://d3tqt20u0qzspi.cloudfront.net/live/ngrp:bandaancha_all/playlist.m3u8?tecnotv.info?iptv.m3u8
+https://d3tqt20u0qzspi.cloudfront.net/live/ngrp:bandaancha_all/playlist.m3u8?tecnotv.info?iptv.m3u8
 
 #EXTINF:0,28 - Boomerang
-udp://@http://23.237.22.2:8080/lstream4/440/14/654681644949e1a53be8493e2112723e/324.flv
+http://23.237.22.2:8080/lstream4/440/14/654681644949e1a53be8493e2112723e/324.flv
 
 #EXTINF:0,29 - C5N
-udp://@http://ar.watcha.live/ch1/hi.m3u8
+http://ar.watcha.live/ch1/hi.m3u8
 
 #EXTINF:0,30 - Jalisco
-udp://@http://198.255.112.18:1935/c7cultura/videoc7cultura/chunklist.m3u8
+http://198.255.112.18:1935/c7cultura/videoc7cultura/chunklist.m3u8
 
 #EXTINF:0,31 - Cable NOTICIAS
-udp://@http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
 
 #EXTINF:0,32 - Canal 10 Chetumal
-udp://@http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 
 #EXTINF:0,33 - Canal 10 Entre Ríos en Vivo - Argentina
-udp://@http://streamingvideo.com.ar:1935/10tvdaniel/10tvdaniel/chunklist_w1701912757.m3u8
+http://streamingvideo.com.ar:1935/10tvdaniel/10tvdaniel/chunklist_w1701912757.m3u8
 
 #EXTINF:0,34 - Canal 26
-udp://@http://200.115.193.177/live/26hd-720/.m3u8
+http://200.115.193.177/live/26hd-720/.m3u8
 
 #EXTINF:0,35 - Canal 4 Jujuy
-udp://@http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
 
 #EXTINF:0,36 - Canal 5
-udp://@http://209.126.116.177:2086/105canal5/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+http://209.126.116.177:2086/105canal5/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
 
 #EXTINF:0,37 - Canal 7 SLP
-udp://@http://187.188.159.113:1935/live/movil.sdp/playlist.m3u8
+http://187.188.159.113:1935/live/movil.sdp/playlist.m3u8
 
 #EXTINF:0,38 - Canal 9 Salta
-udp://@http://panel.dattalive.com:1935/8250/8250/chunklist_w1539863470.m3u8
+http://panel.dattalive.com:1935/8250/8250/chunklist_w1539863470.m3u8
 
 #EXTINF:0,39 - CANAL ANTIESTRES
-udp://@http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8
 
 #EXTINF:0,40 - Canal Antiestrés
-udp://@http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8?tecnotv.info?iptv.m3u8
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8?tecnotv.info?iptv.m3u8
 
 #EXTINF:0,41 - Canal de Ayuda HD
-udp://@http://ph1.ministeriotv.com:1936/280_rp/280/chunklist_w1038540988.m3u8
+http://ph1.ministeriotv.com:1936/280_rp/280/chunklist_w1038540988.m3u8
 
 #EXTINF:0,42 - Canal Diocesano en Vivo - España
-udp://@http://188.165.135.22/rtvd/livestream/chunklist_w662830705.m3u8
+http://188.165.135.22/rtvd/livestream/chunklist_w662830705.m3u8
 
 #EXTINF:0,43 - CANAL EXTREMADURA
-udp://@http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8
+http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8
 
 #EXTINF:0,44 - CANAL ONCE
-udp://@http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
 
 #EXTINF:0,45 - CANAL RURAL
-udp://@http://streamyes.alsolnet.com/elrural/live/chunklist_w590452939.m3u8
+http://streamyes.alsolnet.com/elrural/live/chunklist_w590452939.m3u8
 
 #EXTINF:0,46 - Canal Sony 2
-udp://@http://23.237.22.2:8080/lstream4/396/10/787f871133435e47a2e14ab464387153/203.flv
+http://23.237.22.2:8080/lstream4/396/10/787f871133435e47a2e14ab464387153/203.flv
 
 #EXTINF:0,47 - Canal Wow TV
-udp://@http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?www.tecnotv.info
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?www.tecnotv.info
 
 #EXTINF:0,48 - CANTINAZO
-udp://@http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
 
 #EXTINF:0,49 - CAPITAL 21 CDMX
-udp://@http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8
+http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8
 
 #EXTINF:0,50 - CAPITAL TV
-udp://@http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoCAPTV/_definst_/live/stream1.m3u8
+http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoCAPTV/_definst_/live/stream1.m3u8
 
 #EXTINF:0,51 - Capital TV - Inglaterra
-udp://@http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/chunklist.m3u8
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/chunklist.m3u8
 
 #EXTINF:0,52 - Capital TV Music
-udp://@http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
 
 #EXTINF:0,53 - Cartoon Network
-udp://@http://209.126.116.177:2086/307CartoonNetwork/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+http://209.126.116.177:2086/307CartoonNetwork/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
 
 #EXTINF:0,54 - Cartoon Network
-udp://@http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/320.flv
+http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/320.flv
 
 #EXTINF:0,55 - Cartoon Network 2
-udp://@http://23.237.22.2:8080/lstream4/106/14/654681644949e1a53be8493e2112723e/320.flv
+http://23.237.22.2:8080/lstream4/106/14/654681644949e1a53be8493e2112723e/320.flv
 
 #EXTINF:0,56 - CIELO TV
-udp://@http://swow1.blogtimedia.com:1935/cielotv/myStream.sdp/chunklist_w862712807.m3u8
+http://swow1.blogtimedia.com:1935/cielotv/myStream.sdp/chunklist_w862712807.m3u8
 
 #EXTINF:0,57 - CINE +
-udp://@http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
+http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
 
 #EXTINF:0,58 - Cine AR
-udp://@http://ar.watcha.live/ch17/hi.m3u8
+http://ar.watcha.live/ch17/hi.m3u8
 
 #EXTINF:0,59 - Cine Calidad
-udp://@https://hls-ord-1a.vaughnsoft.net/ams/live/live_cine_calidad/chunklist.m3u8
+https://hls-ord-1a.vaughnsoft.net/ams/live/live_cine_calidad/chunklist.m3u8
 
 #EXTINF:0,60 - Cine Ciencia ficcion
-udp://@https://hls-ord-1a.vaughnsoft.net/ams/live/live_cienciaficcion/chunklist.m3u8
+https://hls-ord-1a.vaughnsoft.net/ams/live/live_cienciaficcion/chunklist.m3u8
 
 #EXTINF:0,61 - CINE ON DEMAND
-udp://@http://stmv2.euroti.com.br:1935/mandruva/mandruva/live.m3u8?wowzasessionid=412620615
+http://stmv2.euroti.com.br:1935/mandruva/mandruva/live.m3u8?wowzasessionid=412620615
 
 #EXTINF:0,62 - Cinecanal
-udp://@http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/430.flv
+http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/430.flv
 
 #EXTINF:0,63 - Cinemax
-udp://@http://23.237.22.2:8080/lstream4/401/10/787f871133435e47a2e14ab464387153/481.flv
+http://23.237.22.2:8080/lstream4/401/10/787f871133435e47a2e14ab464387153/481.flv
 
 #EXTINF:0,64 - Cinemax
-udp://@http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/481.flv
+http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/481.flv
 
 #EXTINF:0,65 - Claro Sports
-udp://@http://209.126.116.177:2086/504clarosport/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+http://209.126.116.177:2086/504clarosport/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
 
 #EXTINF:0,66 - CN23
-udp://@http://ar.watcha.live/ch11/mid.m3u8
+http://ar.watcha.live/ch11/mid.m3u8
 
 #EXTINF:0,67 - CNN CHILE
-udp://@http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
+http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
 
 #EXTINF:0,68 - Colosal
-udp://@http://k3.usastreams.com:1935/colosaltv1/colosaltv1/live.m3u8
+http://k3.usastreams.com:1935/colosaltv1/colosaltv1/live.m3u8
 
 #EXTINF:0,69 - Comedy Central
-udp://@http://209.126.116.177:2086/225CMEDY/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+http://209.126.116.177:2086/225CMEDY/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
 
 #EXTINF:0,70 - COMUNION TV
-udp://@http://50.30.37.36:1935/live/smil:MyStream.smil/chunklist_w1401573908_b849000_sleng.m3u8
+http://50.30.37.36:1935/live/smil:MyStream.smil/chunklist_w1401573908_b849000_sleng.m3u8
 
 #EXTINF:0,71 - Cool
-udp://@http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8
+http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8
 
 #EXTINF:0,72 - Cosmovision
-udp://@http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8
 
 #EXTINF:0,73 - CTN Internacional
-udp://@http://184.164.158.202:1936/48/smil:48.smil/chunklist_w319975176_b1564000_sleng.m3u8
+http://184.164.158.202:1936/48/smil:48.smil/chunklist_w319975176_b1564000_sleng.m3u8
 
 #EXTINF:0,74 - DCINE Español
-udp://@http://edge8208.livesports.pw/live/verdcinen472ab4996ac0193b/index.m3u8
+http://edge8208.livesports.pw/live/verdcinen472ab4996ac0193b/index.m3u8
 
 #EXTINF:0,75 - DCINE Español
-udp://@sX0gUg
+sX0gUg
 
 #EXTINF:0,76 - DeporTv
-udp://@http://186.33.227.198/DXTV/smil:DXTV.smil/chunklist_w422200342_b800000_slesp.m3u8
+http://186.33.227.198/DXTV/smil:DXTV.smil/chunklist_w422200342_b800000_slesp.m3u8
 
 #EXTINF:0,77 - DIOS TV HD
-udp://@http://vs8.live.opencaster.com/opencaster/FexjmvyyACpb/chunklist_w1409699706.m3u8
+http://vs8.live.opencaster.com/opencaster/FexjmvyyACpb/chunklist_w1409699706.m3u8
 
 #EXTINF:0,78 - Discovery Channel
-udp://@http://23.237.22.2:8080/lstream4/92/16/654681644949e1a53be8493e2112723e/371.flv
+http://23.237.22.2:8080/lstream4/92/16/654681644949e1a53be8493e2112723e/371.flv
 
 #EXTINF:0,79 - Discovery Kids
-udp://@http://209.126.116.177:2086/310discoverykids/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+http://209.126.116.177:2086/310discoverykids/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
 
 #EXTINF:0,80 - Discovery Turbo
-udp://@http://23.237.22.2:8080/lstream4/434/16/5bac2479610bead6bf7939891285f5fd/383.flv
+http://23.237.22.2:8080/lstream4/434/16/5bac2479610bead6bf7939891285f5fd/383.flv
 
 #EXTINF:0,81 - Discoverychannel
-udp://@http://209.126.116.177:2086/402discoverychannel/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+http://209.126.116.177:2086/402discoverychannel/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
 
 #EXTINF:0,82 - DiscoveryH&H
-udp://@http://209.126.116.177:2086/215DiscoveryHH/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+http://209.126.116.177:2086/215DiscoveryHH/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
 
 #EXTINF:0,83 - Disney Channel
-udp://@http://23.237.22.2:8080/lstream4/104/14/654681644949e1a53be8493e2112723e/312.flv
+http://23.237.22.2:8080/lstream4/104/14/654681644949e1a53be8493e2112723e/312.flv
 
 #EXTINF:0,84 - Disney Jr
-udp://@http://209.126.116.177:2086/303DisneyJunior/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+http://209.126.116.177:2086/303DisneyJunior/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
 
 #EXTINF:0,85 - Disney XD
-udp://@http://209.126.116.177:2086/304DisneyXDNorte/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+http://209.126.116.177:2086/304DisneyXDNorte/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
 
 #EXTINF:0,86 - Disney XD 2
-udp://@http://23.237.22.2:8080/lstream4/107/14/654681644949e1a53be8493e2112723e/322.flv
+http://23.237.22.2:8080/lstream4/107/14/654681644949e1a53be8493e2112723e/322.flv
 
 #EXTINF:0,87 - Djing
-udp://@http://www.djing.com/tv/i-05.m3u8
+http://www.djing.com/tv/i-05.m3u8
 
 #EXTINF:0,88 - Djing Classic
-udp://@https://www.djing.com/tv/i-03.m3u8
+https://www.djing.com/tv/i-03.m3u8
 
 #EXTINF:0,89 - DW Español
-udp://@http://www.metafilegenerator.de/DWelle/tv-Latinoamerica/ios/master.m3u8
+http://www.metafilegenerator.de/DWelle/tv-Latinoamerica/ios/master.m3u8
 
 #EXTINF:0,90 - E
-udp://@http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=5515452978001&pubId=96980687001&videoId=5515432224001
+http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=5515452978001&pubId=96980687001&videoId=5515432224001
 
 #EXTINF:0,91 - E! Latino
-udp://@http://209.126.116.177:2086/212E!Latino/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+http://209.126.116.177:2086/212E!Latino/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
 
 #EXTINF:0,92 - Edge
-udp://@http://23.237.22.2:8080/lstream5/106/14/be68dc71bdba115e9b30790158ae463a/195.flv
+http://23.237.22.2:8080/lstream5/106/14/be68dc71bdba115e9b30790158ae463a/195.flv
 
 #EXTINF:0,93 - EFEKTO TV
-udp://@http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/master.m3u8?tecnotv.info?iptv.m3u8#IptvPlay
+http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/master.m3u8?tecnotv.info?iptv.m3u8#IptvPlay
 
 #EXTINF:0,94 - El Gourmet
-udp://@http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/268.flv
+http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/268.flv
 
 #EXTINF:0,95 - El Nueve HD
-udp://@http://ar.watcha.live/ch5/hi.m3u8
+http://ar.watcha.live/ch5/hi.m3u8
 
 #EXTINF:0,96 - El Trece HD
-udp://@http://ar.watcha.live/ch7/hi.m3u8
+http://ar.watcha.live/ch7/hi.m3u8
 
 #EXTINF:0,97 - Encuentro
-udp://@http://ar.watcha.live/ch14/hi.m3u8
+http://ar.watcha.live/ch14/hi.m3u8
 
 #EXTINF:0,98 - Enlace
-udp://@http://acaooyalahd2-lh.akamaihd.net/i/TBN07_delivery@186245/index_1728_av-b.m3u8?iptvgratis?chile.m3u8
+http://acaooyalahd2-lh.akamaihd.net/i/TBN07_delivery@186245/index_1728_av-b.m3u8?iptvgratis?chile.m3u8
 
 #EXTINF:0,99 - Enlace Juvenil
-udp://@http://acaooyalahd2-lh.akamaihd.net/i/TBN08_delivery@186246/index_282_av-p.m3u8?sd=10&rebase=on
+http://acaooyalahd2-lh.akamaihd.net/i/TBN08_delivery@186246/index_282_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:0,100 - ESNE TV
-udp://@http://198.154.228.82:1935/esne-live/smil:esnetv.smil/chunklist_w431608397_b1298000_sleng.m3u8
+http://198.154.228.82:1935/esne-live/smil:esnetv.smil/chunklist_w431608397_b1298000_sleng.m3u8
 
 #EXTINF:0,101 - ESPERANZA TV
-udp://@http://bcliveuniv-lh.akamaihd.net/i/Esperanza_1@193090/index_392_av-p.m3u8?sd=10&rebase=on
+http://bcliveuniv-lh.akamaihd.net/i/Esperanza_1@193090/index_392_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:0,102 - ESPERANZA TV PANAMA
-udp://@http://ca1.ministeriotv.com:1935/1521/1521/chunklist_w955027428.m3u8
+http://ca1.ministeriotv.com:1935/1521/1521/chunklist_w955027428.m3u8
 
 #EXTINF:0,103 - ESPN
-udp://@http://209.126.116.177:2086/505ESPN/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+http://209.126.116.177:2086/505ESPN/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
 
 #EXTINF:0,104 - Espn +
-udp://@http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/516.flv
+http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/516.flv
 
 #EXTINF:0,105 - ESPN 2
-udp://@http://209.126.116.177:2086/506ESPN2/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+http://209.126.116.177:2086/506ESPN2/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
 
 #EXTINF:0,106 - ESPN 3
-udp://@http://209.126.116.177:2086/507ESPN3/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+http://209.126.116.177:2086/507ESPN3/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
 
 #EXTINF:0,107 - ESPN3 (MEX)
-udp://@http://23.237.22.2:8080/lstream4/400/10/5bac2479610bead6bf7939891285f5fd/516.flv
+http://23.237.22.2:8080/lstream4/400/10/5bac2479610bead6bf7939891285f5fd/516.flv
 
 #EXTINF:0,108 - Eurochannel
-udp://@http://23.237.22.2:8080/lstream5/106/14/be68dc71bdba115e9b30790158ae463a/211.flv
+http://23.237.22.2:8080/lstream5/106/14/be68dc71bdba115e9b30790158ae463a/211.flv
 
 #EXTINF:0,109 - Film Zone
-udp://@http://23.237.22.2:8080/lstream4/431/16/5bac2479610bead6bf7939891285f5fd/440.flv
+http://23.237.22.2:8080/lstream4/431/16/5bac2479610bead6bf7939891285f5fd/440.flv
 
 #EXTINF:0,110 - Fox
-udp://@http://209.126.116.177:2086/202CanalFOXMexico/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+http://209.126.116.177:2086/202CanalFOXMexico/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
 
 #EXTINF:0,111 - Fox 2
-udp://@http://209.126.116.177:2086/202CanalFOXMexico/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+http://209.126.116.177:2086/202CanalFOXMexico/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
 
 #EXTINF:0,112 - FOX ACTION
-udp://@http://23.237.22.2:8080/lstream4/449/10/787f871133435e47a2e14ab464387153/416.flv
+http://23.237.22.2:8080/lstream4/449/10/787f871133435e47a2e14ab464387153/416.flv
 
 #EXTINF:0,113 - Fox Comedy
-udp://@http://23.237.22.2:8080/lstream5/106/14/be68dc71bdba115e9b30790158ae463a/77.flv
+http://23.237.22.2:8080/lstream5/106/14/be68dc71bdba115e9b30790158ae463a/77.flv
 
 #EXTINF:0,114 - Fox Family
-udp://@http://23.237.22.2:8080/lstream5/106/14/be68dc71bdba115e9b30790158ae463a/76.flv
+http://23.237.22.2:8080/lstream5/106/14/be68dc71bdba115e9b30790158ae463a/76.flv
 
 #EXTINF:0,115 - FOX FAMILY
-udp://@http://23.237.22.2:8080/lstream4/450/12/5bac2479610bead6bf7939891285f5ff/418.m3u8
+http://23.237.22.2:8080/lstream4/450/12/5bac2479610bead6bf7939891285f5ff/418.m3u8
 
 #EXTINF:0,116 - Fox Life
-udp://@http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/271.flv
+http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/271.flv
 
 #EXTINF:0,117 - Fox Life 2
-udp://@http://23.237.22.2:8080/lstream4/436/10/787f871133435e47a2e14ab464387153/271.flv
+http://23.237.22.2:8080/lstream4/436/10/787f871133435e47a2e14ab464387153/271.flv
 
 #EXTINF:0,118 - Fox Movies
-udp://@http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/417.flv
+http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/417.flv
 
 #EXTINF:0,119 - Fox Sports
-udp://@http://209.126.116.177:2086/502FoxSport1/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+http://209.126.116.177:2086/502FoxSport1/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
 
 #EXTINF:0,120 - Fox Sports 2
-udp://@http://209.126.116.177:2086/503FoxSport2/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+http://209.126.116.177:2086/503FoxSport2/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
 
 #EXTINF:0,121 - Fox Sports 3
-udp://@http://209.126.116.177:2086/508FoxSports3/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+http://209.126.116.177:2086/508FoxSports3/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
 
 #EXTINF:0,122 - Fox Sports2 HD
-udp://@http://ryuk.onetvgratis.com/lstream4/get/infinity/ship/527.flv
+http://ryuk.onetvgratis.com/lstream4/get/infinity/ship/527.flv
 
 #EXTINF:0,123 - FX
-udp://@http://209.126.116.177:2086/207FXLatin/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+http://209.126.116.177:2086/207FXLatin/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
 
 #EXTINF:0,124 - FX 2
-udp://@http://23.237.22.2:8080/lstream4/398/10/787f871133435e47a2e14ab464387153/209.flv
+http://23.237.22.2:8080/lstream4/398/10/787f871133435e47a2e14ab464387153/209.flv
 
 #EXTINF:0,125 - FX HD (Opcion 2)
-udp://@http://23.237.22.2:8080/lstream4/834/10/787f871133435e47a2e14ab464387153/209.m3u8
+http://23.237.22.2:8080/lstream4/834/10/787f871133435e47a2e14ab464387153/209.m3u8
 
 #EXTINF:0,126 - Gala TV
-udp://@http://wowza2.mysoltv.com:1992/Latino_Gala_TV_HD/tracks-v1a1/index.m3u8
+http://wowza2.mysoltv.com:1992/Latino_Gala_TV_HD/tracks-v1a1/index.m3u8
 
 #EXTINF:0,127 - Golden
-udp://@http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/436.flv
+http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/436.flv
 
 #EXTINF:0,128 - Gracia TV
-udp://@http://ph1.ministeriotv.com:1936/graciatv/graciatv/chunklist_w1133073447.m3u8
+http://ph1.ministeriotv.com:1936/graciatv/graciatv/chunklist_w1133073447.m3u8
 
 #EXTINF:0,129 - GreenTV
-udp://@http://grupomac-lh.akamaihd.net/i/0pin4uhat_1@301783/master.m3u8
+http://grupomac-lh.akamaihd.net/i/0pin4uhat_1@301783/master.m3u8
 
 #EXTINF:0,130 - HBO
-udp://@http://wowza2.mysoltv.com:1992/Latino_HBO/tracks-v1a1/index.m3u8
+http://wowza2.mysoltv.com:1992/Latino_HBO/tracks-v1a1/index.m3u8
 
 #EXTINF:0,131 - HBO
-udp://@http://23.237.22.2:8080/lstream4/450/12/5bac2479610bead6bf7939891285f5ff/401.m3u8
+http://23.237.22.2:8080/lstream4/450/12/5bac2479610bead6bf7939891285f5ff/401.m3u8
 
 #EXTINF:0,132 - HBO 2
-udp://@http://wowza2.mysoltv.com:1992/Latino_HBO_2/tracks-v1a1/index.m3u8
+http://wowza2.mysoltv.com:1992/Latino_HBO_2/tracks-v1a1/index.m3u8
 
 #EXTINF:0,133 - HBO 2
-udp://@http://23.237.22.2:8080/lstream5/106/14/be68dc71bdba115e9b30790158ae463a/83.flv
+http://23.237.22.2:8080/lstream5/106/14/be68dc71bdba115e9b30790158ae463a/83.flv
 
 #EXTINF:0,134 - HBO Family
-udp://@http://23.237.22.2:8080/lstream5/106/14/be68dc71bdba115e9b30790158ae463a/86.flv
+http://23.237.22.2:8080/lstream5/106/14/be68dc71bdba115e9b30790158ae463a/86.flv
 
 #EXTINF:0,135 - HISPAN TV
-udp://@http://178.32.255.199:1935/live/hispantv/chunklist_w1362269254.m3u8
+http://178.32.255.199:1935/live/hispantv/chunklist_w1362269254.m3u8
 
 #EXTINF:0,136 - History
-udp://@http://209.126.116.177:2086/409history/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+http://209.126.116.177:2086/409history/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
 
 #EXTINF:0,137 - Hit TV
-udp://@http://tst.es.flash.glb.ipercast.net/tst.es-live/live/playlist_w.m3u8
+http://tst.es.flash.glb.ipercast.net/tst.es-live/live/playlist_w.m3u8
 
 #EXTINF:0,138 - IB3 TV
-udp://@http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/bitrate_4.m3u8
+http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/bitrate_4.m3u8
 
 #EXTINF:0,139 - Investigation Discovery
-udp://@http://23.237.22.2:8080/lstream4/434/16/5bac2479610bead6bf7939891285f5fd/263.flv
+http://23.237.22.2:8080/lstream4/434/16/5bac2479610bead6bf7939891285f5fd/263.flv
 
 #EXTINF:0,140 - IPE
-udp://@http://cdnh4.iblups.com/hls/irtp.m3u8
+http://cdnh4.iblups.com/hls/irtp.m3u8
 
 #EXTINF:0,141 - La Sexta
-udp://@http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?iptvgratis?chile.m3u8
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?iptvgratis?chile.m3u8
 
 #EXTINF:0,142 - LA SEXTA
-udp://@http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_1_av-p.m3u8?sd=10&rebase=on
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_1_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:0,143 - La Voz de María TV en Vivo - República Dominicana
-udp://@http://uni5rtmp.tulix.tv/playout2multi9/playout2multi9.stream/chunklist_w1654968706.m3u8
+http://uni5rtmp.tulix.tv/playout2multi9/playout2multi9.stream/chunklist_w1654968706.m3u8
 
 #EXTINF:0,144 - Las Estrellas
-udp://@http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8?iptvgratis?chile.m3u8
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8?iptvgratis?chile.m3u8
 
 #EXTINF:0,145 - Lifetime
-udp://@http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/379.flv
+http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/379.flv
 
 #EXTINF:0,146 - Los Simpson 24/7
-udp://@http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8?iptvgratis?chile.m3u8
+http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8?iptvgratis?chile.m3u8
 
 #EXTINF:0,147 - MC Play
-udp://@http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8?tecnotv.info?iptv.m3u8
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8?tecnotv.info?iptv.m3u8
 
 #EXTINF:0,148 - MEDELLIN
-udp://@http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8
 
 #EXTINF:0,149 - MEGA
-udp://@http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-b.m3u8?sd=10&rebase=on
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-b.m3u8?sd=10&rebase=on
 
 #EXTINF:0,150 - Melody Channel
-udp://@http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
 
 #EXTINF:0,151 - MEXIQUENSE TV
-udp://@http://1-fss-fso36.streamhoster.com/lv_tvmexiquense/_definst_/broadcast1/playlist.m3u8
+http://1-fss-fso36.streamhoster.com/lv_tvmexiquense/_definst_/broadcast1/playlist.m3u8
 
 #EXTINF:0,152 - Mi Musica
-udp://@http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?iptvgratis?chile.m3u8
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?iptvgratis?chile.m3u8
 
 #EXTINF:0,153 - Miami TV (Mex)
-udp://@http://mexicoserver.miamitvchannel.com/miamitv/smil:miamitvmexico/playlist.m3u8?tecnotv.info?iptv.m3u8
+http://mexicoserver.miamitvchannel.com/miamitv/smil:miamitvmexico/playlist.m3u8?tecnotv.info?iptv.m3u8
 
 #EXTINF:0,154 - Milenio TV
-udp://@http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
 
 #EXTINF:0,155 - Movistar Accion
-udp://@http://edge8205.livesports.pw/live/veraccion177662786c60c28d/index.m3u8
+http://edge8205.livesports.pw/live/veraccion177662786c60c28d/index.m3u8
 
 #EXTINF:0,156 - Movistar Accion 2
-udp://@http://edgoo7.telesport.pw/live/plusaccion/index.m3u8
+http://edgoo7.telesport.pw/live/plusaccion/index.m3u8
 
 #EXTINF:0,157 - Movistar Comedia
-udp://@http://edge99008.livesports.pw/live/ver5a4fe7bbe7bf12a76ea7f8/index.m3u8
+http://edge99008.livesports.pw/live/ver5a4fe7bbe7bf12a76ea7f8/index.m3u8
 
 #EXTINF:0,158 - Movistar Comedia 2
-udp://@http://edgoo3.telesport.pw/live/comedia/index.m3u8
+http://edgoo3.telesport.pw/live/comedia/index.m3u8
 
 #EXTINF:0,159 - Movistar DCINE
-udp://@http://edgoo6.telesport.pw/live/dcine/index.m3u8
+http://edgoo6.telesport.pw/live/dcine/index.m3u8
 
 #EXTINF:0,160 - Movistar DCINE 2
-udp://@http://edge8208.livesports.pw/live/verdicneesp9084d46f8d69b2/index.m3u8
+http://edge8208.livesports.pw/live/verdicneesp9084d46f8d69b2/index.m3u8
 
 #EXTINF:0,161 - Movistar Estrenos
-udp://@http://edgoo1.telesport.pw/live/plusestrenos/index.m3u8
+http://edgoo1.telesport.pw/live/plusestrenos/index.m3u8
 
 #EXTINF:0,162 - Movistar Estrenos 2
-udp://@http://edge8206.livesports.pw/live/vermestrenos91ddad7d34dd8/index.m3u8
+http://edge8206.livesports.pw/live/vermestrenos91ddad7d34dd8/index.m3u8
 
 #EXTINF:0,163 - Movistar Series
-udp://@http://edge6204.livesports.pw/live/vermseries9492273540e14a5/index.m3u8
+http://edge6204.livesports.pw/live/vermseries9492273540e14a5/index.m3u8
 
 #EXTINF:0,164 - Movistar Series 2
-udp://@http://163.172.52.83:8000/live/testapp/testapp/188.ts
+http://163.172.52.83:8000/live/testapp/testapp/188.ts
 
 #EXTINF:0,165 - Series Xtra
-udp://@http://edga9.vergol.pw/live/plusseries/index.m3u8
+http://edga9.vergol.pw/live/plusseries/index.m3u8
 
 #EXTINF:0,166 - Series Xtra 2
-udp://@http://edge99008.livesports.pw/live/vera6669184f0b71095624027/index.m3u8
+http://edge99008.livesports.pw/live/vera6669184f0b71095624027/index.m3u8
 
 #EXTINF:0,167 - Movistar Xtra
-udp://@http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/6.ts
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/6.ts
 
 #EXTINF:0,169 - Music Box UA en Vivo - Ucrania
-udp://@http://212.26.132.86/hls/mb_ua.m3u8
+http://212.26.132.86/hls/mb_ua.m3u8
 
 #EXTINF:0,170 - Music Choice
-udp://@http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
 
 #EXTINF:0,171 - Music Top
-udp://@http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?iptvgratis?chile.m3u8
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?iptvgratis?chile.m3u8
 
 #EXTINF:0,172 - MVS NOTICIAS
-udp://@http://wos1.smartcast.com.mx:1935/mvs/mvs_radio/mvs_radio.m3u8
+http://wos1.smartcast.com.mx:1935/mvs/mvs_radio/mvs_radio.m3u8
 
 #EXTINF:0,173 - Nat Geo Wild
-udp://@http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/355.flv
+http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/355.flv
 
 #EXTINF:0,174 - NatGeo
-udp://@http://209.126.116.177:2086/405Natgeo/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+http://209.126.116.177:2086/405Natgeo/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
 
 #EXTINF:0,175 - National Geographic
-udp://@http://23.237.22.2:8080/lstream4/429/16/654681644949e1a53be8493e2112723e/377.flv
+http://23.237.22.2:8080/lstream4/429/16/654681644949e1a53be8493e2112723e/377.flv
 
 #EXTINF:0,176 - NEX TV
-udp://@http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
+http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
 
 #EXTINF:0,177 - NFL Now
-udp://@http://svglive3-event.level3.nfl.com/nflent3/live/now/NFLNOW.m3u8
+http://svglive3-event.level3.nfl.com/nflent3/live/now/NFLNOW.m3u8
 
 #EXTINF:0,178 - NICK
-udp://@http://209.126.116.177:2086/305nickelodeon/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+http://209.126.116.177:2086/305nickelodeon/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
 
 #EXTINF:0,179 - Nick 2
-udp://@http://23.237.22.2:8080/lstream4/105/14/654681644949e1a53be8493e2112723e/317.flv
+http://23.237.22.2:8080/lstream4/105/14/654681644949e1a53be8493e2112723e/317.flv
 
 #EXTINF:0,180 - NickJr
-udp://@http://209.126.116.177:2086/306NickJrLatinAmerica/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+http://209.126.116.177:2086/306NickJrLatinAmerica/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
 
 #EXTINF:0,181 - OCHO TV
-udp://@http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/master.m3u8
+http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/master.m3u8
 
 #EXTINF:0,182 - Oro mar tv
-udp://@http://proxy.cablefamilia.com/hls/oromartv_hi/index.m3u8
+http://proxy.cablefamilia.com/hls/oromartv_hi/index.m3u8
 
 #EXTINF:0,183 - Paka Paka
-udp://@http://ar.watcha.live/ch15/hi.m3u8
+http://ar.watcha.live/ch15/hi.m3u8
 
 #EXTINF:0,184 - Paka Paka 2
-udp://@http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
+http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
 
 #EXTINF:0,185 - Pinguino TV
-udp://@http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8
 
 #EXTINF:0,186 - POPULAR TV CANTABRIA
-udp://@http://cls.todostreaming.eu/ptvcantabria/livestream/chunklist.m3u8
+http://cls.todostreaming.eu/ptvcantabria/livestream/chunklist.m3u8
 
 #EXTINF:0,187 - Power
-udp://@http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/chunklist_w668249396.m3u8
+http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/chunklist_w668249396.m3u8
 
 #EXTINF:0,188 - Power HD
-udp://@http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8?tecnotv.info?.m3u
+http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8?tecnotv.info?.m3u
 
 #EXTINF:0,189 - READY
-udp://@http://ss6.domint.net:2016/rtv_str/readytv/chunklist_w1642827167.m3u8
+http://ss6.domint.net:2016/rtv_str/readytv/chunklist_w1642827167.m3u8
 
 #EXTINF:0,190 - REAL MADRID TV
-udp://@http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
 
 #EXTINF:0,191 - Red Advenir
-udp://@http://streamer1.streamhost.org:1935/salive/GMIredadvenirh/chunklist.m3u8?wowzasessionid=1844952275
+http://streamer1.streamhost.org:1935/salive/GMIredadvenirh/chunklist.m3u8?wowzasessionid=1844952275
 
 #EXTINF:0,192 - Retro Music
-udp://@http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 
 #EXTINF:0,193 - Rhema Vision
-udp://@http://va1.ministeriotv.com:1936/64/stream/chunklist_w323273503.m3u8
+http://va1.ministeriotv.com:1936/64/stream/chunklist_w323273503.m3u8
 
 #EXTINF:0,194 - Rock Nacional TV
-udp://@http://stmv4.questreaming.com/questreaming/questreaming/playlist.m3u8
+http://stmv4.questreaming.com/questreaming/questreaming/playlist.m3u8
 
 #EXTINF:0,195 - RPP TV
-udp://@http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoRPPWC/_definst_/live/stream1.m3u8
+http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoRPPWC/_definst_/live/stream1.m3u8
 
 #EXTINF:0,196 - Slam!TV en Vivo - Países Bajos
-udp://@http://hls.slam.nl/streaming/hls/SLAM!/lower_500000/playlist.m3u8
+http://hls.slam.nl/streaming/hls/SLAM!/lower_500000/playlist.m3u8
 
 #EXTINF:0,197 - Sony
-udp://@http://209.126.116.177:2086/211sony/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+http://209.126.116.177:2086/211sony/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
 
 #EXTINF:0,198 - Sony2
-udp://@http://ryuk.onetvgratis.com/lstream4/get/infinity/ship/203.flv
+http://ryuk.onetvgratis.com/lstream4/get/infinity/ship/203.flv
 
 #EXTINF:0,199 - Space
-udp://@http://23.237.22.2:8080/lstream4/402/10/787f871133435e47a2e14ab464387153/445.flv
+http://23.237.22.2:8080/lstream4/402/10/787f871133435e47a2e14ab464387153/445.flv
 
 #EXTINF:0,200 - Studio Universal
-udp://@http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/492.flv
+http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/492.flv
 
 #EXTINF:0,201 - Studio Universal 2
-udp://@http://209.126.116.177:2086/206Studio/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+http://209.126.116.177:2086/206Studio/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
 
 #EXTINF:0,202 - Sun Channel
-udp://@http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_manifest.m3u8
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_manifest.m3u8
 
 #EXTINF:0,203 - SyFy
-udp://@http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/257.flv
+http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/257.flv
 
 #EXTINF:0,204 - SyFy 2
-udp://@http://209.126.116.177:2086/204SyFyLatin/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+http://209.126.116.177:2086/204SyFyLatin/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
 
 #EXTINF:0,205 - SyFy 3
-udp://@http://23.237.22.2:8080/lstream4/836/10/787f871133435e47a2e14ab464387153/257.m3u8
+http://23.237.22.2:8080/lstream4/836/10/787f871133435e47a2e14ab464387153/257.m3u8
 
 #EXTINF:0,206 - Tabernaculo Bautista
-udp://@http://streamingcontrol.com:1935/tbbcentral/l1v1.sdp_640/chunklist_w1319530561.m3u8
+http://streamingcontrol.com:1935/tbbcentral/l1v1.sdp_640/chunklist_w1319530561.m3u8
 
 #EXTINF:0,207 - TBS
-udp://@http://209.126.116.177:2086/223TBS/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+http://209.126.116.177:2086/223TBS/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
 
 #EXTINF:0,208 - TBS (opcion 2)
-udp://@http://23.237.22.2:8080/lstream4/891/10/787f871133435e47a2e14ab464387153/273.m3u8
+http://23.237.22.2:8080/lstream4/891/10/787f871133435e47a2e14ab464387153/273.m3u8
 
 #EXTINF:0,209 - TBS 2
-udp://@http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/273.flv
+http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/273.flv
 
 #EXTINF:0,210 - TCM
-udp://@http://23.237.22.2:8080/lstream4/456/10/5bac2479610bead6bf7939891285f5fd/496.flv
+http://23.237.22.2:8080/lstream4/456/10/5bac2479610bead6bf7939891285f5fd/496.flv
 
 #EXTINF:0,211 - TELE UNIVERSO (Sur)
-udp://@http://ss9.domint.net:1942/tu_str/universo/chunklist_w428700260.m3u8
+http://ss9.domint.net:1942/tu_str/universo/chunklist_w428700260.m3u8
 
 #EXTINF:0,212 - TELEANTIOQUIA
-udp://@http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8
 
 #EXTINF:0,213 - TELECAFE
-udp://@http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8?tecnotv.info?iptv.m3u8
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8?tecnotv.info?iptv.m3u8
 
 #EXTINF:0,214 - Telecine Action
-udp://@http://BelcoCanaisHdPremium@stmv2.srvstm.com/mandruva/mandruva/playlist.m3u8
+http://BelcoCanaisHdPremium@stmv2.srvstm.com/mandruva/mandruva/playlist.m3u8
 
 #EXTINF:0,215 - Telefe HD
-udp://@http://ar.watcha.live/ch6/hi.m3u8
+http://ar.watcha.live/ch6/hi.m3u8
 
 #EXTINF:0,216 - Telemax HD
-udp://@http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 
 #EXTINF:0,217 - Telemundo
-udp://@https://hls-ord-1a.vaughnsoft.net/ams/live/live_anahix11/chunklist.m3u8
+https://hls-ord-1a.vaughnsoft.net/ams/live/live_anahix11/chunklist.m3u8
 
 #EXTINF:0,218 - Telemúsica
-udp://@http://186.155.200.118:1935/live/telemusica/livestream.m3u8
+http://186.155.200.118:1935/live/telemusica/livestream.m3u8
 
 #EXTINF:0,219 - Telpin HD
-udp://@http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
+http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
 
 #EXTINF:0,220 - TELPIN HD
-udp://@http://201.219.100.30:1935/telpintv/ttv.stream_720p/chunklist_w1656240835.m3u8?tecnotv.info?iptv.m3u8
+http://201.219.100.30:1935/telpintv/ttv.stream_720p/chunklist_w1656240835.m3u8?tecnotv.info?iptv.m3u8
 
 #EXTINF:0,221 - The Film Zone
-udp://@http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/440.flv
+http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/440.flv
 
 #EXTINF:0,222 - TICAVISION
-udp://@http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 
 #EXTINF:0,223 - TIGO MUSIC
-udp://@http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
 
 #EXTINF:0,224 - TLC
-udp://@http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/386.flv
+http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/386.flv
 
 #EXTINF:0,225 - TLT VENEZUELA
-udp://@http://enc-fwt.lorini.net/telet/telet/tracks-v1a1/index.m3u8?time=1485382261151
+http://enc-fwt.lorini.net/telet/telet/tracks-v1a1/index.m3u8?time=1485382261151
 
 #EXTINF:0,226 - TNT
-udp://@http://23.237.22.2:8080/lstream4/77/10/787f871133435e47a2e14ab464387153/435.flv
+http://23.237.22.2:8080/lstream4/77/10/787f871133435e47a2e14ab464387153/435.flv
 
 #EXTINF:0,227 - TNT 2
-udp://@http://209.126.116.177:2086/205TNTSE/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+http://209.126.116.177:2086/205TNTSE/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
 
 #EXTINF:0,228 - TNT 3
-udp://@http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/435.flv
+http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/435.flv
 
 #EXTINF:0,229 - TNT Series 2
-udp://@http://23.237.22.2:8080/lstream4/469/10/787f871133435e47a2e14ab464387153/266.flv
+http://23.237.22.2:8080/lstream4/469/10/787f871133435e47a2e14ab464387153/266.flv
 
 #EXTINF:0,230 - Todo DEPORTES
-udp://@http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
+http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
 
 #EXTINF:0,231 - Top Latin
-udp://@http://online.radiodifusion.net:1935/livetv/LatinoSD.stream/chunklist_w1282322208.m3u8
+http://online.radiodifusion.net:1935/livetv/LatinoSD.stream/chunklist_w1282322208.m3u8
 
 #EXTINF:0,232 - TV CRISTIANA
-udp://@http://swow1.blogtimedia.com:1935/cielotv/myStream.sdp/chunklist_w146683974.m3u8
+http://swow1.blogtimedia.com:1935/cielotv/myStream.sdp/chunklist_w146683974.m3u8
 
 #EXTINF:0,233 - TV Mas
-udp://@http://50.7.98.234:1935/rtv/videortv/chunklist.m3u8?tecnotv.info?iptv.m3u8?hermoso.m3u8?tecnotv.info?iptv.m3u8
+http://50.7.98.234:1935/rtv/videortv/chunklist.m3u8?tecnotv.info?iptv.m3u8?hermoso.m3u8?tecnotv.info?iptv.m3u8
 
 #EXTINF:0,234 - TV Más 2
-udp://@http://50.7.98.234:1935/rtv/videortv/playlist.m3u
+http://50.7.98.234:1935/rtv/videortv/playlist.m3u
 
 #EXTINF:0,235 - TV Off Travel en Vivo - Bolivia
-udp://@http://www.channel.tevemi.com:1935/TvOff/TvOff/chunklist_w806042690.m3u8
+http://www.channel.tevemi.com:1935/TvOff/TvOff/chunklist_w806042690.m3u8
 
 #EXTINF:0,236 - Tv Pública HD
-udp://@http://ar.watcha.live/ch4/hi.m3u8
+http://ar.watcha.live/ch4/hi.m3u8
 
 #EXTINF:0,237 - TV SOLIDARIA
-udp://@http://panel.cdnstreamserver.com/live/argentina-web.m3u8
+http://panel.cdnstreamserver.com/live/argentina-web.m3u8
 
 #EXTINF:0,238 - TV3 CAT
-udp://@http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/chunklist_b1296000_DVR.m3u8
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/chunklist_b1296000_DVR.m3u8
 
 #EXTINF:0,239 - TV5Monde Latine
-udp://@http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8?tecnotv.info?iptv.m3u8
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8?tecnotv.info?iptv.m3u8
 
 #EXTINF:0,240 - TVMAS VERACRUZ
-udp://@http://50.7.98.234:1935/rtv/videortv//playlist.m3u8
+http://50.7.98.234:1935/rtv/videortv//playlist.m3u8
 
 #EXTINF:0,241 - TVP CULIACÁN
-udp://@http://216.227.135.186:1935/gpacifico1/smil:gpculiacan.smil/chunklist_w1277967391_b1428000_sleng.m3u8
+http://216.227.135.186:1935/gpacifico1/smil:gpculiacan.smil/chunklist_w1277967391_b1428000_sleng.m3u8
 
 #EXTINF:0,242 - TVP MAZATLÁN
-udp://@http://216.227.135.186:1935/gpacifico4/smil:mazatlan.smil/chunklist_w829019339_b1428000_sleng.m3u8
+http://216.227.135.186:1935/gpacifico4/smil:mazatlan.smil/chunklist_w829019339_b1428000_sleng.m3u8
 
 #EXTINF:0,243 - TVP MOCHIS
-udp://@http://216.227.135.186:1935/gpacifico2/smil:mochis.smil/chunklist_w1854582142_b1428000_sleng.m3u8
+http://216.227.135.186:1935/gpacifico2/smil:mochis.smil/chunklist_w1854582142_b1428000_sleng.m3u8
 
 #EXTINF:0,244 - TVP YAQUI TV
-udp://@http://216.227.135.186:1935/gpacifico3/smil:obregon.smil/chunklist_w1903526755_b1428000_sleng.m3u8
+http://216.227.135.186:1935/gpacifico3/smil:obregon.smil/chunklist_w1903526755_b1428000_sleng.m3u8
 
 #EXTINF:0,245 - TV-uno
-udp://@http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8?tecnotv.info?iptv.m3u8
+http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8?tecnotv.info?iptv.m3u8
 
 #EXTINF:0,246 - UES TV CHILE
-udp://@http://edge1.cl.grupoz.cl/uestv/live/chunklist_w1920652071.m3u8
+http://edge1.cl.grupoz.cl/uestv/live/chunklist_w1920652071.m3u8
 
 #EXTINF:0,247 - UK BBC WORLD NEWS
-udp://@http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
 
 #EXTINF:0,248 - UK Chelsea TV
-udp://@http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8
+http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8
 
 #EXTINF:0,249 - UK Eurosports
-udp://@http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
 
 #EXTINF:0,250 - UK NHK World
-udp://@http://b-nhkwtvglobal-i.akamaihd.net/hls/live/263941-b/nhkwtvglobal/index_1180.m3u8
+http://b-nhkwtvglobal-i.akamaihd.net/hls/live/263941-b/nhkwtvglobal/index_1180.m3u8
 
 #EXTINF:0,251 - Uncion 24 HD
-udp://@http://va1.ministeriotv.com:1936/25/stream/chunklist_w1682126197.m3u8
+http://va1.ministeriotv.com:1936/25/stream/chunklist_w1682126197.m3u8
 
 #EXTINF:0,252 - Unicanal
-udp://@http://strm.unicanal.com.py/live/unicanal_src.m3u8
+http://strm.unicanal.com.py/live/unicanal_src.m3u8
 
 #EXTINF:0,253 - Universal Channel
-udp://@http://209.126.116.177:2086/203Universal/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+http://209.126.116.177:2086/203Universal/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
 
 #EXTINF:0,254 - Univision
-udp://@https://freedom.dreamsmx.com/axlhd/HBO_USA15_155_hd/playlist.m3u8
+https://freedom.dreamsmx.com/axlhd/HBO_USA15_155_hd/playlist.m3u8
 
 #EXTINF:0,255 - V Más TV
-udp://@http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?tecnotv.info?iptv.m3u8?
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?tecnotv.info?iptv.m3u8?
 
 #EXTINF:0,256 - VH1
-udp://@http://23.237.22.2:8080/lstream4/90/11/654681644949e1a53be8493e2112723e/703.flv
+http://23.237.22.2:8080/lstream4/90/11/654681644949e1a53be8493e2112723e/703.flv
 
 #EXTINF:0,257 - Virgin TV
-udp://@http://wow01.105.net/live/virgin1/chunklist.m3u8
+http://wow01.105.net/live/virgin1/chunklist.m3u8
 
 #EXTINF:0,258 - Warner Channel
-udp://@http://209.126.116.177:2086/210WarnerChannel/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+http://209.126.116.177:2086/210WarnerChannel/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
 
 #EXTINF:0,259 - 12 monos
-udp://@https://1.bp.blogspot.com/vpL4BeVnEAeGEQ-tQTd8ATSjkssnVvpzJQpy9swWOFYvY6TEx4ihXbD9RKwnt9fM-tQzOVRn=m37
+https://1.bp.blogspot.com/vpL4BeVnEAeGEQ-tQTd8ATSjkssnVvpzJQpy9swWOFYvY6TEx4ihXbD9RKwnt9fM-tQzOVRn=m37
 
 #EXTINF:0,260 - A Kind of Murder
-udp://@http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/604.mkv
+http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/604.mkv
 
 #EXTINF:0,261 - A Todo Gas 8
-udp://@http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/634.mkv
+http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/634.mkv
 
 #EXTINF:0,262 - Â¡Canta!
-udp://@http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/622.mp4
+http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/622.mp4
 
 #EXTINF:0,263 - Absolutamente Fabulosas
-udp://@https://1.bp.blogspot.com/fwTCISVx1ZwxgnzbiAAVU45o9NONirEd_KQx9-MWLu32zMOvMlM5Rp-lRePG6z1maiHlTuSuiYYtE4whBRnSjeI00a-ECEqewmdfuBIx2TH3Qid9227GVFPDoRNdlqVibCq_PA=m22
+https://1.bp.blogspot.com/fwTCISVx1ZwxgnzbiAAVU45o9NONirEd_KQx9-MWLu32zMOvMlM5Rp-lRePG6z1maiHlTuSuiYYtE4whBRnSjeI00a-ECEqewmdfuBIx2TH3Qid9227GVFPDoRNdlqVibCq_PA=m22
 
 #EXTINF:0,264 - Aliados
-udp://@http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/567.avi
+http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/567.avi
 
 #EXTINF:0,265 - Alien 2017
-udp://@http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/822.mkv
+http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/822.mkv
 
 #EXTINF:0,266 - Almost Christmas
-udp://@http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/600.mkv
+http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/600.mkv
 
 #EXTINF:0,267 - Almost Christmas
-udp://@https://1.bp.blogspot.com/ixrEjoOzx8FgKmMoU-fmE038kj4Ag-osYLAbUgYFONZFtM2AZt8UROIGs93x-JygFQbh5KvRpVZlDHMAi57tbjf0SrVZsyDEnNp9ACR_e_xb2pmHKqkNHjcol0rFApXZlgvCDg=m22
+https://1.bp.blogspot.com/ixrEjoOzx8FgKmMoU-fmE038kj4Ag-osYLAbUgYFONZFtM2AZt8UROIGs93x-JygFQbh5KvRpVZlDHMAi57tbjf0SrVZsyDEnNp9ACR_e_xb2pmHKqkNHjcol0rFApXZlgvCDg=m22
 
 #EXTINF:0,268 - American Pastoral
-udp://@https://1.bp.blogspot.com/_Oe_mSZ3lPei3ARr5DorIYntyECmbsDUJ34ZOrPyf0_cd5izu3QUSrlnFDn6K045MjG7ZSDnrXAxMlm-WK4-QHR-rQfatVIocJn-0Iew3fRHSpAunfMpL5g9B5upI6JT5DUQMA=m22
+https://1.bp.blogspot.com/_Oe_mSZ3lPei3ARr5DorIYntyECmbsDUJ34ZOrPyf0_cd5izu3QUSrlnFDn6K045MjG7ZSDnrXAxMlm-WK4-QHR-rQfatVIocJn-0Iew3fRHSpAunfMpL5g9B5upI6JT5DUQMA=m22
 
 #EXTINF:0,269 - Anastasia
-udp://@https://1.bp.blogspot.com/_vSsLTYJRHEtz-B39Rjebtn1EJlfEveJvCXINBz_q7OC_9HfGVMLoopcyP99V7uSwzA3fm1_tQ=m22
+https://1.bp.blogspot.com/_vSsLTYJRHEtz-B39Rjebtn1EJlfEveJvCXINBz_q7OC_9HfGVMLoopcyP99V7uSwzA3fm1_tQ=m22
 
 #EXTINF:0,270 - Andron
-udp://@https://1.bp.blogspot.com/AdbFPdfuqVuT3w8IOPODzOzzn-eG7AQLITTf0Oz33F0L1JhJD_9LpCmG-UdCbwW6GXaWlEI2qJOQuoMicN96hjbip4l_4NSvtQ=m22
+https://1.bp.blogspot.com/AdbFPdfuqVuT3w8IOPODzOzzn-eG7AQLITTf0Oz33F0L1JhJD_9LpCmG-UdCbwW6GXaWlEI2qJOQuoMicN96hjbip4l_4NSvtQ=m22
 
 #EXTINF:0,271 - Assassin's Creed
-udp://@http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/644.mp4
+http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/644.mp4
 
 #EXTINF:0,272 - Baby
-udp://@http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/593.avi
+http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/593.avi
 
 #EXTINF:0,273 - Bad Santa
-udp://@https://1.bp.blogspot.com/SwKtH9HOR2RcPfa1LL4Kshmx0cJYQxCp2kzQ2T6B7GxsSj5BpWW84loW9kS0I1okC-prXepXd-Ihmyccl5cGPU_9WuhBJizxJg=m22
+https://1.bp.blogspot.com/SwKtH9HOR2RcPfa1LL4Kshmx0cJYQxCp2kzQ2T6B7GxsSj5BpWW84loW9kS0I1okC-prXepXd-Ihmyccl5cGPU_9WuhBJizxJg=m22
 
 #EXTINF:0,274 - Bad Santa 2
-udp://@https://1.bp.blogspot.com/4W7tGgt4zy3bPv1_AL1I1Uj8cw_JjZ6dzrsT3QjHtcBXZeCjRUR-ueV6GcPBZRjmz0wJRQIYbzaAGZo0hV8HEBxyiALkZqbCfFsftEYVvMk7xD68X67fE9TKDT9LIe67EikWLw=m22
+https://1.bp.blogspot.com/4W7tGgt4zy3bPv1_AL1I1Uj8cw_JjZ6dzrsT3QjHtcBXZeCjRUR-ueV6GcPBZRjmz0wJRQIYbzaAGZo0hV8HEBxyiALkZqbCfFsftEYVvMk7xD68X67fE9TKDT9LIe67EikWLw=m22
 
 #EXTINF:0,275 - Bambi
-udp://@https://1.bp.blogspot.com/Ki54FGbANBCtZfJ9GLK2uueaSn1j0wUN92pAXjkUwuHlrCMcUPJmky5ra1lZ_ExyqJRk6Zhdh6896tf42YpvEgWbYWnpDtQ0y3kt5s9Bb6SzsTh92rWplMbQilKt0AQEWK6rZg=m37
+https://1.bp.blogspot.com/Ki54FGbANBCtZfJ9GLK2uueaSn1j0wUN92pAXjkUwuHlrCMcUPJmky5ra1lZ_ExyqJRk6Zhdh6896tf42YpvEgWbYWnpDtQ0y3kt5s9Bb6SzsTh92rWplMbQilKt0AQEWK6rZg=m37
 
 #EXTINF:0,276 - Batman
-udp://@https://1.bp.blogspot.com/lUPzKO0Knx0sEF0ZKLpc8oHRSURTyFEgJs-1jRDUBw=m37
+https://1.bp.blogspot.com/lUPzKO0Knx0sEF0ZKLpc8oHRSURTyFEgJs-1jRDUBw=m37
 
 #EXTINF:0,277 - Batman el Regreso del Enmascarado
-udp://@https://1.bp.blogspot.com/tBkjphez5DgbZeGpInxzWi3Ie36lZPXJislhvzM6LrT2VSxN7FC4amm8RpB6PO5GY0HW5QlXDCNG=m22
+https://1.bp.blogspot.com/tBkjphez5DgbZeGpInxzWi3Ie36lZPXJislhvzM6LrT2VSxN7FC4amm8RpB6PO5GY0HW5QlXDCNG=m22
 
 #EXTINF:0,278 - Batman the killing joke
-udp://@https://1.bp.blogspot.com/wBTaYGnMMTy81hPzIrCeU8Qh14syHLfNxJys0k8lNpO4STg2_EBFXBy8R89WiIWKqd4qTJOsijAQ=m22
+https://1.bp.blogspot.com/wBTaYGnMMTy81hPzIrCeU8Qh14syHLfNxJys0k8lNpO4STg2_EBFXBy8R89WiIWKqd4qTJOsijAQ=m22
 
 #EXTINF:0,279 - Batmann vs robin
-udp://@https://1.bp.blogspot.com/SGtts7J-U3NhrUxrdUd1oKGF4_1cOVKa4JIw8yBirCrrqMMNOlihxlKbVFu1C8nI3-94FkqT7kpdTYKSGZjU5OwERBiCVKV9=m37
+https://1.bp.blogspot.com/SGtts7J-U3NhrUxrdUd1oKGF4_1cOVKa4JIw8yBirCrrqMMNOlihxlKbVFu1C8nI3-94FkqT7kpdTYKSGZjU5OwERBiCVKV9=m37
 
 #EXTINF:0,280 - Before I Wake
-udp://@http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/619.mp4
+http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/619.mp4
 
 #EXTINF:0,281 - Bella y bestia 2017
-udp://@http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/654.avi
+http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/654.avi
 
 #EXTINF:0,282 - Belleza Oculta
-udp://@http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/647.mp4
+http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/647.mp4
 
 #EXTINF:0,283 - Ben-Hur
-udp://@https://1.bp.blogspot.com/mO1sI1M3YYdirZLgG7gXid2kqQyX31i1I_2rfvlkDo6z9LTPcMJKbOvyffyqytzHRi7Yxn3E9A=m22
+https://1.bp.blogspot.com/mO1sI1M3YYdirZLgG7gXid2kqQyX31i1I_2rfvlkDo6z9LTPcMJKbOvyffyqytzHRi7Yxn3E9A=m22
 
 #EXTINF:0,284 - Blackhat. Amenaza en la red
-udp://@https://1.bp.blogspot.com/8SfYD2zn8Ptbwdh4L3R3NsEhTEJ5j30dIFnB9arfSVgd67ZosKg4rLw1jJlic3bkzLcbI-FsvKBsovKIYa9aLWRhr6fUvW-2-qkBkqx9YkfaRZjNVrfMy5QO5CD4BtxvBjzpLQ=m37
+https://1.bp.blogspot.com/8SfYD2zn8Ptbwdh4L3R3NsEhTEJ5j30dIFnB9arfSVgd67ZosKg4rLw1jJlic3bkzLcbI-FsvKBsovKIYa9aLWRhr6fUvW-2-qkBkqx9YkfaRZjNVrfMy5QO5CD4BtxvBjzpLQ=m37
 
 #EXTINF:0,285 - Blair Witch
-udp://@https://1.bp.blogspot.com/MjFu3V8ZVtfnXbO3NWymym798Ee1syANEOaTt9zLpm5E5yCS6d38z1fK-BXg9Ioa6XB76ukZkEIn8U88KzVtgIUHtX4kJmZ0yTXCVWMkz-8-AholDeGesJEtnrA_YBnezgzcdQ=m22
+https://1.bp.blogspot.com/MjFu3V8ZVtfnXbO3NWymym798Ee1syANEOaTt9zLpm5E5yCS6d38z1fK-BXg9Ioa6XB76ukZkEIn8U88KzVtgIUHtX4kJmZ0yTXCVWMkz-8-AholDeGesJEtnrA_YBnezgzcdQ=m22
 
 #EXTINF:0,286 - Buscando un amigo para el fin del mundo
-udp://@https://1.bp.blogspot.com/4mwqpQBFfEuxGKIfj_Yym-9MD_iLh-zB4DUueDzbazn19wHlhiwsmG-4kYPR4Ec7cZMWZnzv5zUiTN3DkFfpDf1boB7ATebbP32fU1CWbYaRVKTcbuL5uhB3-MI5B37N_7vVVg=m22
+https://1.bp.blogspot.com/4mwqpQBFfEuxGKIfj_Yym-9MD_iLh-zB4DUueDzbazn19wHlhiwsmG-4kYPR4Ec7cZMWZnzv5zUiTN3DkFfpDf1boB7ATebbP32fU1CWbYaRVKTcbuL5uhB3-MI5B37N_7vVVg=m22
 
 #EXTINF:0,287 - Captain Fantastic
-udp://@http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/531.avi
+http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/531.avi
 
 #EXTINF:0,288 - Caza bajo el sol
-udp://@https://1.bp.blogspot.com/1ocEO4tewQp27TGhLAF2JxRhR8IeAvKRdzWa7x10YFkC_EGanu6SctLWqrsQxa_-fHtFYB50fQ=m22
+https://1.bp.blogspot.com/1ocEO4tewQp27TGhLAF2JxRhR8IeAvKRdzWa7x10YFkC_EGanu6SctLWqrsQxa_-fHtFYB50fQ=m22
 
 #EXTINF:0,289 - Chic!
-udp://@http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/648.mp4
+http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/648.mp4
 
 #EXTINF:0,290 - Chicken Run
-udp://@https://discontrol@goo.gl/WHPQyH
+https://discontrol@goo.gl/WHPQyH
 
 #EXTINF:0,291 - Cincuenta sombras mÃ¡s oscuras
-udp://@http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/547.avi
+http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/547.avi
 
 #EXTINF:0,292 - Cinema Paradiso
-udp://@https://1.bp.blogspot.com/VEysxlAGKW4ioch31o-MOu-UKwfZyG6TTCbwBF7mPf4456o7hHWmRPORJHIgx5iccP-hKwGBlQ=m37
+https://1.bp.blogspot.com/VEysxlAGKW4ioch31o-MOu-UKwfZyG6TTCbwBF7mPf4456o7hHWmRPORJHIgx5iccP-hKwGBlQ=m37
 
 #EXTINF:0,293 - Corazones de Hierro
-udp://@https://1.bp.blogspot.com/UFJvWtt3e2HWNNBry27g2NPyoAFw0-34Ia5rCqMALHYOzaj3QNGdhR0KKXmmyL7Z4ct9mA3Blg=m22
+https://1.bp.blogspot.com/UFJvWtt3e2HWNNBry27g2NPyoAFw0-34Ia5rCqMALHYOzaj3QNGdhR0KKXmmyL7Z4ct9mA3Blg=m22
 
 #EXTINF:0,294 - Critters 3
-udp://@https://1.bp.blogspot.com/JDXHOnOBf8ap_6ep9Zc6ql65Uh9UE0qyxQj9p0Z0KLBoPuWJ4rl2IkLG65o1rl3G1SFRHHFKHA=m22
+https://1.bp.blogspot.com/JDXHOnOBf8ap_6ep9Zc6ql65Uh9UE0qyxQj9p0Z0KLBoPuWJ4rl2IkLG65o1rl3G1SFRHHFKHA=m22
 
 #EXTINF:0,295 - Critters 4
-udp://@https://1.bp.blogspot.com/cEFcWtqNs_ZzRK1jObiZ8QyVYVFYihZfTP5QKmg1CwHPYlhp45uND0SjMaGwRz54SEprgOKPIg=m22
+https://1.bp.blogspot.com/cEFcWtqNs_ZzRK1jObiZ8QyVYVFYihZfTP5QKmg1CwHPYlhp45uND0SjMaGwRz54SEprgOKPIg=m22
 
 #EXTINF:0,296 - Cuento de Navidad
-udp://@https://1.bp.blogspot.com/T4kb6gnA9zERoGJqIG3riSMmMjxPvJteJSQUuwsEW-_01j0xHIf9fu-_OKCwYDDxmIp3fDuekX1C5pUcjSr_foxFFn2-KGUq1A=m22
+https://1.bp.blogspot.com/T4kb6gnA9zERoGJqIG3riSMmMjxPvJteJSQUuwsEW-_01j0xHIf9fu-_OKCwYDDxmIp3fDuekX1C5pUcjSr_foxFFn2-KGUq1A=m22
 
 #EXTINF:0,297 - Darkman
-udp://@https://1.bp.blogspot.com/fhY-xbhKaV6fEVrD_XKXFeJwMa2lF5vJw9RUiewwRYSAnKI5UYi5OSNxU3ZVGUJ9uTviTIrUxg=m22
+https://1.bp.blogspot.com/fhY-xbhKaV6fEVrD_XKXFeJwMa2lF5vJw9RUiewwRYSAnKI5UYi5OSNxU3ZVGUJ9uTviTIrUxg=m22
 
 #EXTINF:0,298 - Del reves
-udp://@https://1.bp.blogspot.com/KywA6GyypWq3oHyeizzL94RLEF953a1hdThMcMPEu5Ta1kiE3tLKIdai8l11V2e-TQfpT4XE=m37
+https://1.bp.blogspot.com/KywA6GyypWq3oHyeizzL94RLEF953a1hdThMcMPEu5Ta1kiE3tLKIdai8l11V2e-TQfpT4XE=m37
 
 #EXTINF:0,299 - Descubriendo a los Robinsons
-udp://@https://1.bp.blogspot.com/_yPwVRQ9nW9--xLOz6oXJGCREbC4pV9XZmq_xmwbDeVtQWkUvio6CfHfshY2S91QLmuMd2ZyiePNVYgWZsBOUPuQaWzG0OnSL74cfmqu7cst3zkgjmkchoE15ZM_gnVNBzgIaw=m22
+https://1.bp.blogspot.com/_yPwVRQ9nW9--xLOz6oXJGCREbC4pV9XZmq_xmwbDeVtQWkUvio6CfHfshY2S91QLmuMd2ZyiePNVYgWZsBOUPuQaWzG0OnSL74cfmqu7cst3zkgjmkchoE15ZM_gnVNBzgIaw=m22
 
 #EXTINF:0,300 - Desierto
-udp://@http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/621.mp4
+http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/621.mp4
 
 #EXTINF:0,301 - Dios no esta muerto 2
-udp://@https://1.bp.blogspot.com/4bRyW9b9UNRp3zqObsbEVAhg41U4mFsibFLTm3LUWVEcySDotW-xWAhKVfmZ0GzZSl6XXGQP_XNWhfhjeLllWZwpPbwKdEXpDITFV0VicElUL7jMhKsONBzEdK2u6sNzWH6aFg=m22
+https://1.bp.blogspot.com/4bRyW9b9UNRp3zqObsbEVAhg41U4mFsibFLTm3LUWVEcySDotW-xWAhKVfmZ0GzZSl6XXGQP_XNWhfhjeLllWZwpPbwKdEXpDITFV0VicElUL7jMhKsONBzEdK2u6sNzWH6aFg=m22
 
 #EXTINF:0,302 - Doc Hollywood
-udp://@https://1.bp.blogspot.com/VWDGMSNuTCTUih-MxJAhyveUzXsOjjDUB2JYHgRrtaROvRZzioWPW-pqzEH4udIWK8c2UXAMrw=m22
+https://1.bp.blogspot.com/VWDGMSNuTCTUih-MxJAhyveUzXsOjjDUB2JYHgRrtaROvRZzioWPW-pqzEH4udIWK8c2UXAMrw=m22
 
 #EXTINF:0,303 - Donde Esta el Fantasma
-udp://@https://1.bp.blogspot.com/xtt8NKWklj8IP_AHCCgMSxuN75B3Pi1kIGmTvU2N46uV7-SeCPimgByeGlA9SMLspcO8JuRHft0l=m37
+https://1.bp.blogspot.com/xtt8NKWklj8IP_AHCCgMSxuN75B3Pi1kIGmTvU2N46uV7-SeCPimgByeGlA9SMLspcO8JuRHft0l=m37
 
 #EXTINF:0,304 - Doraemon Y El Reino Perruno
-udp://@http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/843.avi
+http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/843.avi
 
 #EXTINF:0,305 - El elegido
-udp://@http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/646.mp4
+http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/646.mp4
 
 #EXTINF:0,306 - El especialista: ResurrecciÃ³n
-udp://@http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/532.avi
+http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/532.avi
 
 #EXTINF:0,307 - El faro de las orcas
-udp://@http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/610.mkv
+http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/610.mkv
 
 #EXTINF:0,308 - El Fundador
-udp://@http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/842.avi
+http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/842.avi
 
 #EXTINF:0,309 - El Gato con Botas
-udp://@https://1.bp.blogspot.com/WFrkk6ZsRRVaz4GM2bUaLK95ljyT7K5W3r8TATQ5RiYsFNys-DA2UcSSP1AT73wOPTGP0wsDqA=m22
+https://1.bp.blogspot.com/WFrkk6ZsRRVaz4GM2bUaLK95ljyT7K5W3r8TATQ5RiYsFNys-DA2UcSSP1AT73wOPTGP0wsDqA=m22
 
 #EXTINF:0,310 - El guru de las bodas
-udp://@https://1.bp.blogspot.com/dQIbw2KpTc5nFpA8wt6DBd-iPrIpc_X1g1BvIiqzUBuygJxU8XLHrQpZ-N2-6gvmGWUYdfvXWe_AlbE1PFBnCaTMqYlcnFm4ZBoyIjw6_paCmj1jXaFnhD92fgpT8wavfNlOkQ=m22
+https://1.bp.blogspot.com/dQIbw2KpTc5nFpA8wt6DBd-iPrIpc_X1g1BvIiqzUBuygJxU8XLHrQpZ-N2-6gvmGWUYdfvXWe_AlbE1PFBnCaTMqYlcnFm4ZBoyIjw6_paCmj1jXaFnhD92fgpT8wavfNlOkQ=m22
 
 #EXTINF:0,311 - El halcon maltes
-udp://@https://1.bp.blogspot.com/ZKL0bkoJuOH9PiFxpc1cZatxEcOGGayYUlhTjsNnbcY=m37
+https://1.bp.blogspot.com/ZKL0bkoJuOH9PiFxpc1cZatxEcOGGayYUlhTjsNnbcY=m37
 
 #EXTINF:0,312 - El joven Mesias
-udp://@https://1.bp.blogspot.com/EymsGgG8znhPMuIraiZmFyaFSxPQUssnCjz-M515ig_D8m8NJSEXUwVwgF1ZwxqV1aQprNXFZ9TG64l3kkjsJxGc5q2EB-9aCG2ZSp3hZFbcXqMCeHp1EDnlHg1nl0_Hb-FdiMY=m22
+https://1.bp.blogspot.com/EymsGgG8znhPMuIraiZmFyaFSxPQUssnCjz-M515ig_D8m8NJSEXUwVwgF1ZwxqV1aQprNXFZ9TG64l3kkjsJxGc5q2EB-9aCG2ZSp3hZFbcXqMCeHp1EDnlHg1nl0_Hb-FdiMY=m22
 
 #EXTINF:0,313 - El nacimiento de una nacion
-udp://@https://1.bp.blogspot.com/Cr_qQFEtikLBwxLfB9S9Z6DF8RYeJXh8FPB28SRdQ7d5iLr5D0PlEHWgL8kbfMu09G6XiBl4ZgzZHukE04LN4TkAy8iBJjKn2okts6jDNXrggFTV8fNoMsZ02oiGMdmI8vPTdA=m22
+https://1.bp.blogspot.com/Cr_qQFEtikLBwxLfB9S9Z6DF8RYeJXh8FPB28SRdQ7d5iLr5D0PlEHWgL8kbfMu09G6XiBl4ZgzZHukE04LN4TkAy8iBJjKn2okts6jDNXrggFTV8fNoMsZ02oiGMdmI8vPTdA=m22
 
 #EXTINF:0,314 - El Planeta del Tesoro
-udp://@https://1.bp.blogspot.com/NVa8yAIuu0qRsXrWxi1xv7lr-xH_rBDbYlom0QEkRZK-QplksXHFCYSi0zYYxtw6-Whv77zRf-z6cr37jsE_yLmOqFgIDFkxik8FRPvF5KyRRAzHBm3YKHiKZp15gnehnyJttw=m22
+https://1.bp.blogspot.com/NVa8yAIuu0qRsXrWxi1xv7lr-xH_rBDbYlom0QEkRZK-QplksXHFCYSi0zYYxtw6-Whv77zRf-z6cr37jsE_yLmOqFgIDFkxik8FRPvF5KyRRAzHBm3YKHiKZp15gnehnyJttw=m22
 
 #EXTINF:0,315 - El poder de la cruz
-udp://@https://1.bp.blogspot.com/q-cMI7wHRDxJ1N5J1kPaTA7jzQI1sfwSOScRhedJL2bKGBkwn_5uY6oc_YfaJHGvTGHvDIkE=m37
+https://1.bp.blogspot.com/q-cMI7wHRDxJ1N5J1kPaTA7jzQI1sfwSOScRhedJL2bKGBkwn_5uY6oc_YfaJHGvTGHvDIkE=m37
 
 #EXTINF:0,316 - El Resplandor
-udp://@https://1.bp.blogspot.com/NGvmPRwj8D9SkCp2X6Tcgc9nH3kxmVZPGs399g1EQqNB5S6HyhCVH-Bh59D2XQnko60W2C4M=m37
+https://1.bp.blogspot.com/NGvmPRwj8D9SkCp2X6Tcgc9nH3kxmVZPGs399g1EQqNB5S6HyhCVH-Bh59D2XQnko60W2C4M=m37
 
 #EXTINF:0,317 - El Unico
-udp://@https://1.bp.blogspot.com/i07zeeTI6fLuPh1jDDXK9y8XGxusePV3ftY8QlNuzECVagw3mbdXJfKYOfTUMxQ_Mah7WnRT=m22?cpn=hhYV-vLMyFdckreV&c=WEB&cver=1.20161130
+https://1.bp.blogspot.com/i07zeeTI6fLuPh1jDDXK9y8XGxusePV3ftY8QlNuzECVagw3mbdXJfKYOfTUMxQ_Mah7WnRT=m22?cpn=hhYV-vLMyFdckreV&c=WEB&cver=1.20161130
 
 #EXTINF:0,318 - El Viajante
-udp://@http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/838.avi
+http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/838.avi
 
 #EXTINF:0,319 - Encontraron el Infierno
-udp://@https://1.bp.blogspot.com/IYl3xzF3Upb2QGZmfmKA6U8Oy9Mm_Qi4RVZa-_3mluBeSre7ItiwVz17168hdo8tmrLMp8qE1yL1VXVmrlandBsk9IJK6bE3NjoInTxJQGY8zWsFpuS3BJMVlnJ6Idvs9Ce96A=m22
+https://1.bp.blogspot.com/IYl3xzF3Upb2QGZmfmKA6U8Oy9Mm_Qi4RVZa-_3mluBeSre7ItiwVz17168hdo8tmrLMp8qE1yL1VXVmrlandBsk9IJK6bE3NjoInTxJQGY8zWsFpuS3BJMVlnJ6Idvs9Ce96A=m22
 
 #EXTINF:0,320 - Eraser
-udp://@https://1.bp.blogspot.com/bXv7Y0Cgo7iPzWzav1e7esSFYUWQhwhzkIVTHpw4U1Y=m22
+https://1.bp.blogspot.com/bXv7Y0Cgo7iPzWzav1e7esSFYUWQhwhzkIVTHpw4U1Y=m22
 
 #EXTINF:0,321 - Escupire sobre tu Tumba
-udp://@https://1.bp.blogspot.com/ykjXFdCMwIuXkFLVZnUlD4JNdsA6IwpDo_LbsNvcl2c86kzE3i10KPrN1LjgF07gQ40zHERF=m37
+https://1.bp.blogspot.com/ykjXFdCMwIuXkFLVZnUlD4JNdsA6IwpDo_LbsNvcl2c86kzE3i10KPrN1LjgF07gQ40zHERF=m37
 
 #EXTINF:0,322 - Escupire sobre tu Tumba 2
-udp://@https://1.bp.blogspot.com/3zSUtbo6c0jusNSX2DVGEpKWF7AoEd5yOZ3NKjK3DLKHqkPv6nKoUxccH53pCNn2ZeISIqqk=m37
+https://1.bp.blogspot.com/3zSUtbo6c0jusNSX2DVGEpKWF7AoEd5yOZ3NKjK3DLKHqkPv6nKoUxccH53pCNn2ZeISIqqk=m37
 
 #EXTINF:0,323 - Esencia de mujer
-udp://@https://1.bp.blogspot.com/2LYFFJaPv1afzJha9JhNirQHxRqK4pfqD1fNkkvMsoozadjC7Wr205PMv6EF6-kpPLax7sJc8CPEDtfdmVOGhVUiyM_APQBL7Anl35blqNNT7gLn5M1Ew0NIu0OqA9arYPZHFw=m37
+https://1.bp.blogspot.com/2LYFFJaPv1afzJha9JhNirQHxRqK4pfqD1fNkkvMsoozadjC7Wr205PMv6EF6-kpPLax7sJc8CPEDtfdmVOGhVUiyM_APQBL7Anl35blqNNT7gLn5M1Ew0NIu0OqA9arYPZHFw=m37
 
 #EXTINF:0,324 - Ex Machina
-udp://@https://1.bp.blogspot.com/UYPlZyQuHqmBw3ix7ifCqG77hgxYTXHqw8hN7D2XqB65OmpBE_p1AxsqCs10GrIdNxA=m37
+https://1.bp.blogspot.com/UYPlZyQuHqmBw3ix7ifCqG77hgxYTXHqw8hN7D2XqB65OmpBE_p1AxsqCs10GrIdNxA=m37
 
 #EXTINF:0,325 - Fantasia
-udp://@https://1.bp.blogspot.com/4WAYA1ZuyDcxLcAus0Z7-GBSqGIzKD-SQit1G2RBO4_6wHEK3IPzcluQN1O1n3QGdkpzwiUiwRlu4TCJup1fmZw5LRlQTyCGwZUFKmAvZ6gtY-5QBwnyZTk-ilSTVf5Sg6Xa5Q=m22
+https://1.bp.blogspot.com/4WAYA1ZuyDcxLcAus0Z7-GBSqGIzKD-SQit1G2RBO4_6wHEK3IPzcluQN1O1n3QGdkpzwiUiwRlu4TCJup1fmZw5LRlQTyCGwZUFKmAvZ6gtY-5QBwnyZTk-ilSTVf5Sg6Xa5Q=m22
 
 #EXTINF:0,326 - Final fantasy: La fuerza interior
-udp://@https://1.bp.blogspot.com/pjr8sXKY7HBvhAh5oiV6Hl5LntUPjgvWShrmqG0Myg=m37
+https://1.bp.blogspot.com/pjr8sXKY7HBvhAh5oiV6Hl5LntUPjgvWShrmqG0Myg=m37
 
 #EXTINF:0,327 - Flaming Star
-udp://@https://1.bp.blogspot.com/vUAGo0xWArSHGP4slMgz7urRc9jVPVOcmnYfUJq5d4Y=m37
+https://1.bp.blogspot.com/vUAGo0xWArSHGP4slMgz7urRc9jVPVOcmnYfUJq5d4Y=m37
 
 #EXTINF:0,328 - Ghost in the Shell
-udp://@https://1.bp.blogspot.com/IOV7GPi3rYVHB6f-ryXswBfXgdtZu0JVRcVfLAJiAPSchSLq85FvgcmKjYBdWPDmJ3JdFsRFgR8F0nDxp7BGMXdP6OkeAXXEiauvCbDi-GcJFQ7fbJ6DO_rK_nv3A8V8VpX-Jg=m22
+https://1.bp.blogspot.com/IOV7GPi3rYVHB6f-ryXswBfXgdtZu0JVRcVfLAJiAPSchSLq85FvgcmKjYBdWPDmJ3JdFsRFgR8F0nDxp7BGMXdP6OkeAXXEiauvCbDi-GcJFQ7fbJ6DO_rK_nv3A8V8VpX-Jg=m22
 
 #EXTINF:0,329 - Ghost in the Shell 2: Innocence
-udp://@https://1.bp.blogspot.com/v07mKWg5zogzhMRbWPGkEX0rfuKyya6e7pPiiASqV5q5Eo-0ySiQu8cNk3nJrs1cbm7asVIEl15UVX3iQViQl6zNb0gM2VX7ngDAdQByZSX86cjv2uZKnJITYeinZ7jjjgHnKQ=m22
+https://1.bp.blogspot.com/v07mKWg5zogzhMRbWPGkEX0rfuKyya6e7pPiiASqV5q5Eo-0ySiQu8cNk3nJrs1cbm7asVIEl15UVX3iQViQl6zNb0gM2VX7ngDAdQByZSX86cjv2uZKnJITYeinZ7jjjgHnKQ=m22
 
 #EXTINF:0,330 - Hacker
-udp://@http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/607.mkv
+http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/607.mkv
 
 #EXTINF:0,331 - Hannibal
-udp://@https://1.bp.blogspot.com/0TpztpVM7e8cYVi6p1QczozGvEvYsD3yGY9GOF54CDQQ55r0KRZUpiRzCJ_m64gpbEw9HHaMpQ=m37
+https://1.bp.blogspot.com/0TpztpVM7e8cYVi6p1QczozGvEvYsD3yGY9GOF54CDQQ55r0KRZUpiRzCJ_m64gpbEw9HHaMpQ=m37
 
 #EXTINF:0,332 - Hombre en LLamas
-udp://@https://1.bp.blogspot.com/tRBPW3bx3O5eBH2bermtnAD4-e1R8TIgQPO_N8-zZ9y9ak7w0w3KXn9vWQEMx2mQjVa3KUqGFw=m22
+https://1.bp.blogspot.com/tRBPW3bx3O5eBH2bermtnAD4-e1R8TIgQPO_N8-zZ9y9ak7w0w3KXn9vWQEMx2mQjVa3KUqGFw=m22
 
 #EXTINF:0,333 - Hombres de negro 3
-udp://@https://1.bp.blogspot.com/ZlacIYjDdBGzsoZp68eBiW1fTngxiXkJlrL48mmkYyAKUto2Vt5MQjTdwk6zHyLgR-df0rPBrzZo-qK41srqv2I6rmX4oYdvnGyc9EP30qWzL05pfZuR_Ecsi5iC3tevuz0nSw=m22
+https://1.bp.blogspot.com/ZlacIYjDdBGzsoZp68eBiW1fTngxiXkJlrL48mmkYyAKUto2Vt5MQjTdwk6zHyLgR-df0rPBrzZo-qK41srqv2I6rmX4oYdvnGyc9EP30qWzL05pfZuR_Ecsi5iC3tevuz0nSw=m22
 
 #EXTINF:0,334 - Hombres de valor
-udp://@http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/601.mkv
+http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/601.mkv
 
 #EXTINF:0,335 - Horton
-udp://@https://1.bp.blogspot.com/uUfT3yASPjvXcbioVa0lT9b2Rls5fhN36QQCKY0f0AcaM2ZtrUyM9TAcipzz3snUaDVqMLhI=m22
+https://1.bp.blogspot.com/uUfT3yASPjvXcbioVa0lT9b2Rls5fhN36QQCKY0f0AcaM2ZtrUyM9TAcipzz3snUaDVqMLhI=m22
 
 #EXTINF:0,336 - Hot Girls Wanted
-udp://@https://1.bp.blogspot.com/pybi0bsn625vXCEbgiT-1RLdnldtK8swWEWtsQlOX9w=m22
+https://1.bp.blogspot.com/pybi0bsn625vXCEbgiT-1RLdnldtK8swWEWtsQlOX9w=m22
 
 #EXTINF:0,337 - I Am Not a Serial Killer
-udp://@https://1.bp.blogspot.com/xZGnJavLd-KVxgKyqyBn4oVh6Uz_1OiL05IZUlGV1850Q3gg-UfGSFwcz2immfAzOjsYroxcnHJ9wgD-2MJrhLYLorFdR5oTUkezzGC2pZVwTdUASptgV_ahhqgrm55qTalXxg=m22
+https://1.bp.blogspot.com/xZGnJavLd-KVxgKyqyBn4oVh6Uz_1OiL05IZUlGV1850Q3gg-UfGSFwcz2immfAzOjsYroxcnHJ9wgD-2MJrhLYLorFdR5oTUkezzGC2pZVwTdUASptgV_ahhqgrm55qTalXxg=m22
 
 #EXTINF:0,338 - IBoy
-udp://@http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/525.avi
+http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/525.avi
 
 #EXTINF:0,339 - Indomable
-udp://@https://1.bp.blogspot.com/_5eFIn2CIZbF0IleAbdcw-VG3d-dR6cEDVXCdjx1itg2GguEiVDyXkxkPHmolECXtfEYmnxNUhJq7kSU70egFsIHfoH3EpNwyP4qIt-kyEgZHHvyGE1gcNbsT4ZHOE4Ern1e-A=m37
+https://1.bp.blogspot.com/_5eFIn2CIZbF0IleAbdcw-VG3d-dR6cEDVXCdjx1itg2GguEiVDyXkxkPHmolECXtfEYmnxNUhJq7kSU70egFsIHfoH3EpNwyP4qIt-kyEgZHHvyGE1gcNbsT4ZHOE4Ern1e-A=m37
 
 #EXTINF:0,340 - Infiltrado
-udp://@http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/623.mp4
+http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/623.mp4
 
 #EXTINF:0,341 - Jack Ryan: Operacion Sombra
-udp://@https://1.bp.blogspot.com/vAXnKnLCd4i0gzuALZ4ue9d4CRE4AhfNCdtsyMbJnWO2OOftta0bH9aoIz3DuCE9BlpUFsnTVg=m22
+https://1.bp.blogspot.com/vAXnKnLCd4i0gzuALZ4ue9d4CRE4AhfNCdtsyMbJnWO2OOftta0bH9aoIz3DuCE9BlpUFsnTVg=m22
 
 #EXTINF:0,342 - Jason x
-udp://@https://1.bp.blogspot.com/EjKIHR_u0VkrNg-GrEehUzV0-741gpBEY9PAu3ZHEw=m37
+https://1.bp.blogspot.com/EjKIHR_u0VkrNg-GrEehUzV0-741gpBEY9PAu3ZHEw=m37
 
 #EXTINF:0,343 - Jesus de Nazaret Parte 1
-udp://@https://1.bp.blogspot.com/hv2-iS6EhHfnkfdRMEFsc1zdL_kG1TPWPDbYcsERKdb8-d7mswTGbNtA1_OkHwY6aHvAf5AoQM17aw=m22
+https://1.bp.blogspot.com/hv2-iS6EhHfnkfdRMEFsc1zdL_kG1TPWPDbYcsERKdb8-d7mswTGbNtA1_OkHwY6aHvAf5AoQM17aw=m22
 
 #EXTINF:0,344 - Jesus de Nazaret Parte 2
-udp://@https://1.bp.blogspot.com/conGlNGxq8jjbrs-ahYjQHQoxp0hiAOf6WMEDPmrEDAxC9Z_FeJvjdWDps-MihJqNvop5GVTEosmos-mPgGNAOzX50VElf90_A=m22
+https://1.bp.blogspot.com/conGlNGxq8jjbrs-ahYjQHQoxp0hiAOf6WMEDPmrEDAxC9Z_FeJvjdWDps-MihJqNvop5GVTEosmos-mPgGNAOzX50VElf90_A=m22
 
 #EXTINF:0,345 - Jumanji
-udp://@https://1.bp.blogspot.com/NcW3vgkinPilKliDBI4laVJZd0NRUHapbCxSvj6bRmCBqOUP-fnqFk1P_ox0MJzmSzd0xy5wp80=m22
+https://1.bp.blogspot.com/NcW3vgkinPilKliDBI4laVJZd0NRUHapbCxSvj6bRmCBqOUP-fnqFk1P_ox0MJzmSzd0xy5wp80=m22
 
 #EXTINF:0,346 - Khumba
-udp://@https://1.bp.blogspot.com/6aOx-U2UFUYT5wWA8Apq8IwUb_XOENTV2RK2FXc8LbM_mdNEgYpMXU4wkqdsWIjNCbkCkWNQ1Q=m22
+https://1.bp.blogspot.com/6aOx-U2UFUYT5wWA8Apq8IwUb_XOENTV2RK2FXc8LbM_mdNEgYpMXU4wkqdsWIjNCbkCkWNQ1Q=m22
 
 #EXTINF:0,347 - Kickboxer: Vengeance
-udp://@http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/594.avi
+http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/594.avi
 
 #EXTINF:0,348 - Kill Bill. Volume 1
-udp://@https://1.bp.blogspot.com/HgJFs-gPBXJKhsFDIbV9M6cH-lLo_d-AslpV4Ow8ya1KzNffwdcC0H91mOvnAGm8WxMSIueh=m37
+https://1.bp.blogspot.com/HgJFs-gPBXJKhsFDIbV9M6cH-lLo_d-AslpV4Ow8ya1KzNffwdcC0H91mOvnAGm8WxMSIueh=m37
 
 #EXTINF:0,349 - Killing Jesus
-udp://@https://1.bp.blogspot.com/-2oR1NPCtl95LESPCCMeb8BoBYmnb7MaP3lyOLM4ejD9ZZ_TYOUMiNyDWzi6yVJVKdlQlTLq=m37
+https://1.bp.blogspot.com/-2oR1NPCtl95LESPCCMeb8BoBYmnb7MaP3lyOLM4ejD9ZZ_TYOUMiNyDWzi6yVJVKdlQlTLq=m37
 
 #EXTINF:0,350 - Kong: La isla Calavera
-udp://@http://junglacristal2.servepics.com:6969/movie/web/aOb1NDF0sq/184.MKV
+http://junglacristal2.servepics.com:6969/movie/web/aOb1NDF0sq/184.MKV
 
 #EXTINF:0,351 - Kung fu panda 3
-udp://@https://discontrol@goo.gl/SRPKjd
+https://discontrol@goo.gl/SRPKjd
 
 #EXTINF:0,352 - Kung Fu Yoga
-udp://@http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/835.avi
+http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/835.avi
 
 #EXTINF:0,353 - La chaqueta metalica
-udp://@https://1.bp.blogspot.com/iOG9i75-CzF4HB02Vv9l4IRR3E6XZkh8yWZRjyLxMR7AlU8SAhjpGsfSYYrYHsVFDGDx-ZB09w=m22
+https://1.bp.blogspot.com/iOG9i75-CzF4HB02Vv9l4IRR3E6XZkh8yWZRjyLxMR7AlU8SAhjpGsfSYYrYHsVFDGDx-ZB09w=m22
 
 #EXTINF:0,354 - La Colina
-udp://@https://1.bp.blogspot.com/kmL1N1WyyEAh5CYZsmJuA79WfXq0f_9BYypPkRCVKGELQIL8u7PnKQrak-clRJteny7jPqnC=m37
+https://1.bp.blogspot.com/kmL1N1WyyEAh5CYZsmJuA79WfXq0f_9BYypPkRCVKGELQIL8u7PnKQrak-clRJteny7jPqnC=m37
 
 #EXTINF:0,355 - La dama de oro
-udp://@https://1.bp.blogspot.com/cFQP1GIz25r92KY5fmEfWh9sLjWb-RH1wjG47dx5TpjHsfvoUvF3ZTtmadP2VNgDMZc0mTvlqUwGAvAgEj1xAnp60yPbZK3CNros83Ll6KAfmNu_l7XcNeYy-HiKN8OHzV28Jw=m37
+https://1.bp.blogspot.com/cFQP1GIz25r92KY5fmEfWh9sLjWb-RH1wjG47dx5TpjHsfvoUvF3ZTtmadP2VNgDMZc0mTvlqUwGAvAgEj1xAnp60yPbZK3CNros83Ll6KAfmNu_l7XcNeYy-HiKN8OHzV28Jw=m37
 
 #EXTINF:0,356 - La doncella (The Handmaiden)
-udp://@http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/608.mkv
+http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/608.mkv
 
 #EXTINF:0,357 - La excepcion a la regla
-udp://@https://1.bp.blogspot.com/GAC2E_ajz3NDCNRK1XQ1mKLFtMYoizELK84c4mTF8ek1X45XqI1HhJi1zgkXTdJkvxQJ_bvxYMnEQe-pbKIFzuyG522slmjZtZlPIwoQakGqa6VBOQsFomSHkun1ul8w55_gsg=m22
+https://1.bp.blogspot.com/GAC2E_ajz3NDCNRK1XQ1mKLFtMYoizELK84c4mTF8ek1X45XqI1HhJi1zgkXTdJkvxQJ_bvxYMnEQe-pbKIFzuyG522slmjZtZlPIwoQakGqa6VBOQsFomSHkun1ul8w55_gsg=m22
 
 #EXTINF:0,358 - La familia Addams
-udp://@https://1.bp.blogspot.com/dYj1dfLO6e-yU827FXFsegCVRcXxwGPEe2gqB_AGHc3ucZimXt8wnVLVwNPmVotRB2F0X8nt=m22
+https://1.bp.blogspot.com/dYj1dfLO6e-yU827FXFsegCVRcXxwGPEe2gqB_AGHc3ucZimXt8wnVLVwNPmVotRB2F0X8nt=m22
 
 #EXTINF:0,359 - La Frontera Del Crimen
-udp://@http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/839.avi
+http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/839.avi
 
 #EXTINF:0,360 - La gran muralla (The Great Wall)
-udp://@http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/568.mkv
+http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/568.mkv
 
 #EXTINF:0,361 - La gran revancha
-udp://@https://1.bp.blogspot.com/RqIsgUB12vmrmgqkHWvHzK73u6lFLMpSTV8Ie76qFMk8NSyySj6PqFAh9CSEquq4-Bo9UOu6P9LMmB9Y7UBdXlvGUZ2baJ1DLvTKXEeJAHnlLGipjN5m1nHT2OBSQeiEr_qllA=m37
+https://1.bp.blogspot.com/RqIsgUB12vmrmgqkHWvHzK73u6lFLMpSTV8Ie76qFMk8NSyySj6PqFAh9CSEquq4-Bo9UOu6P9LMmB9Y7UBdXlvGUZ2baJ1DLvTKXEeJAHnlLGipjN5m1nHT2OBSQeiEr_qllA=m37
 
 #EXTINF:0,362 - La Guerra de las Galaxias episodio 2
-udp://@https://1.bp.blogspot.com/g3Z3elNjPzb0L-u1ZYKwx1t_G9oO4frSI1LadZVODdkjGpgYnFFynsuXegX8ZiRJgxDGe88W=m37
+https://1.bp.blogspot.com/g3Z3elNjPzb0L-u1ZYKwx1t_G9oO4frSI1LadZVODdkjGpgYnFFynsuXegX8ZiRJgxDGe88W=m37
 
 #EXTINF:0,363 - La Guerra de las Galaxias episodio 3
-udp://@https://1.bp.blogspot.com/dSR72oZMoGQW1NzdZybcoBAm6LNveJ3CtV2clCFKZGK7_nnHxC_bE5vDip6l1XIdhRmdxPst=m37
+https://1.bp.blogspot.com/dSR72oZMoGQW1NzdZybcoBAm6LNveJ3CtV2clCFKZGK7_nnHxC_bE5vDip6l1XIdhRmdxPst=m37
 
 #EXTINF:0,364 - La Guerra de las Galaxias episodio 4
-udp://@https://1.bp.blogspot.com/L93DmBnKThROe5GgPtNOwqBrhooHM7EnUo9DRGgmu6LtqFRazWCifxB1A6M66SLJAq8Jei4=m37
+https://1.bp.blogspot.com/L93DmBnKThROe5GgPtNOwqBrhooHM7EnUo9DRGgmu6LtqFRazWCifxB1A6M66SLJAq8Jei4=m37
 
 #EXTINF:0,365 - La Guerra de las Galaxias episodio 5
-udp://@https://1.bp.blogspot.com/4hfZl4C5GrfYWRI0qCdIcNWiKdtUBXKF00kgHF5uOZLjiV2GXqavwxNMI2dx4eYQpk9pczc=m37
+https://1.bp.blogspot.com/4hfZl4C5GrfYWRI0qCdIcNWiKdtUBXKF00kgHF5uOZLjiV2GXqavwxNMI2dx4eYQpk9pczc=m37
 
 #EXTINF:0,366 - La Guerra de las Galaxias episodio 6
-udp://@https://1.bp.blogspot.com/O56ISx0oEengtX3bgsBor3wVzHm4AKS5ai2eW9AtMZa1ikhlO96q4Dmlq9_BEywBhVFPpKs=m37
+https://1.bp.blogspot.com/O56ISx0oEengtX3bgsBor3wVzHm4AKS5ai2eW9AtMZa1ikhlO96q4Dmlq9_BEywBhVFPpKs=m37
 
 #EXTINF:0,367 - La historia Sin Fin 2
-udp://@http://discontrol@goo.gl/0diWcF
+http://discontrol@goo.gl/0diWcF
 
 #EXTINF:0,368 - La Hora De La Venganza
-udp://@http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/837.avi
+http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/837.avi
 
 #EXTINF:0,369 - La invencion de Hugo
-udp://@https://1.bp.blogspot.com/IZlWcZY-Ss4BLlnwpInYt_pAjnP_v_fUMsOzpsOqyqlwTbT4pATrcUTZ3Bha0Y8LwKiF9xaXdA=m22
+https://1.bp.blogspot.com/IZlWcZY-Ss4BLlnwpInYt_pAjnP_v_fUMsOzpsOqyqlwTbT4pATrcUTZ3Bha0Y8LwKiF9xaXdA=m22
 
 #EXTINF:0,370 - La liga de la justicia el ataque de la legion del mal
-udp://@https://1.bp.blogspot.com/4PPdc3bI6MPpBqCCsRTyBpQM60VQmH1VG32WD5_ekvkkBiV-2kzJtE9ca1zZAez020LHv55ODt_DMxFcZPtIrsU__PfmFW10=m37
+https://1.bp.blogspot.com/4PPdc3bI6MPpBqCCsRTyBpQM60VQmH1VG32WD5_ekvkkBiV-2kzJtE9ca1zZAez020LHv55ODt_DMxFcZPtIrsU__PfmFW10=m37
 
 #EXTINF:0,371 - La liga de la justicia el trono de atlantis
-udp://@https://1.bp.blogspot.com/DTp0812HFCQ-4VdFPrFMs0KBqRlR0Fx7oBdU5ONUG7ZYNxmNGBXZhoSpvAPWsZgte9enmp9enpNGfQxsgYIwunmSNbzN4nKM=m22
+https://1.bp.blogspot.com/DTp0812HFCQ-4VdFPrFMs0KBqRlR0Fx7oBdU5ONUG7ZYNxmNGBXZhoSpvAPWsZgte9enmp9enpNGfQxsgYIwunmSNbzN4nKM=m22
 
 #EXTINF:0,372 - La luz entre los oceanos
-udp://@https://1.bp.blogspot.com/RyNBUIv-CsQ5SvbQb3mdUCimrgdHrEqvULUTnHMvVi_gxZfMZ5M02CdIkoyR31g6edIZUhYy_jYBvvTH700QMRE6fhTDis9p8gOenA-fAZIMoQZFU745Wnc7pIHabgI4XTC6WA=m22
+https://1.bp.blogspot.com/RyNBUIv-CsQ5SvbQb3mdUCimrgdHrEqvULUTnHMvVi_gxZfMZ5M02CdIkoyR31g6edIZUhYy_jYBvvTH700QMRE6fhTDis9p8gOenA-fAZIMoQZFU745Wnc7pIHabgI4XTC6WA=m22
 
 #EXTINF:0,373 - La masacre de Texas 3
-udp://@https://1.bp.blogspot.com/U-LiE2BZNTfIUcMGxXa11F7CLSez3pmClVAETOaSw36UAvVKfj7hpUAffMqQlyQcKgTqGwgH=m37
+https://1.bp.blogspot.com/U-LiE2BZNTfIUcMGxXa11F7CLSez3pmClVAETOaSw36UAvVKfj7hpUAffMqQlyQcKgTqGwgH=m37
 
 #EXTINF:0,374 - La mujer de Negro
-udp://@https://1.bp.blogspot.com/em7UCpfBKkCv_of6_ko9pUbqtrosXOwGEGD74Gg-t_xbXA1RUkZQ6FTjOS0YByKpoKy0JfDSaA=m22
+https://1.bp.blogspot.com/em7UCpfBKkCv_of6_ko9pUbqtrosXOwGEGD74Gg-t_xbXA1RUkZQ6FTjOS0YByKpoKy0JfDSaA=m22
 
 #EXTINF:0,375 - La naranja mecanica
-udp://@https://1.bp.blogspot.com/J76FOtbAxnev2iwWFwEdYYsHLs5r2-7ZiZo2oAJ20j7dUmt2OfsGW_-2K_FkYY0vONpW9zqx=m37
+https://1.bp.blogspot.com/J76FOtbAxnev2iwWFwEdYYsHLs5r2-7ZiZo2oAJ20j7dUmt2OfsGW_-2K_FkYY0vONpW9zqx=m37
 
 #EXTINF:0,376 - La Oveja Shaun
-udp://@https://discontrol@goo.gl/Y8zAvd
+https://discontrol@goo.gl/Y8zAvd
 
 #EXTINF:0,377 - La pasion de Cristo
-udp://@https://1.bp.blogspot.com/SiFzz3vRdQZVBI6cUdrmiD4hZN0NKVjSsbicjLXzgZ5biUyAdyJMtGfjpYK1CSgNLfB9LPm4=m37
+https://1.bp.blogspot.com/SiFzz3vRdQZVBI6cUdrmiD4hZN0NKVjSsbicjLXzgZ5biUyAdyJMtGfjpYK1CSgNLfB9LPm4=m37
 
 #EXTINF:0,378 - La princesa Mononoke
-udp://@https://1.bp.blogspot.com/ShqiwNciODENgY3CZ8qAIw9xuo3uEuyHn1ba9QrabE_vzFUZ4eZt5hDT9JNEdY-hB817K09m=m22
+https://1.bp.blogspot.com/ShqiwNciODENgY3CZ8qAIw9xuo3uEuyHn1ba9QrabE_vzFUZ4eZt5hDT9JNEdY-hB817K09m=m22
 
 #EXTINF:0,379 - La Profecia 3
-udp://@https://1.bp.blogspot.com/Dc6uWIHwR99f3ufYr1DvjZW6a4rjFXsQGTppm-Y-fMSwVlCX2FPSi8f5Pomvwf9e3U2A9EaG=m37
+https://1.bp.blogspot.com/Dc6uWIHwR99f3ufYr1DvjZW6a4rjFXsQGTppm-Y-fMSwVlCX2FPSi8f5Pomvwf9e3U2A9EaG=m37
 
 #EXTINF:0,380 - La vida secreta de Walter Mitty
-udp://@https://1.bp.blogspot.com/WUMP0lr_wOYBJrI-9_LAnG9JUTfe-eIm9VZHNzJwlusSTxtDCRiELWEABdvFCF8y9llwC7MW=m22
+https://1.bp.blogspot.com/WUMP0lr_wOYBJrI-9_LAnG9JUTfe-eIm9VZHNzJwlusSTxtDCRiELWEABdvFCF8y9llwC7MW=m22
 
 #EXTINF:0,381 - Lanny And Wayne
-udp://@https://1.bp.blogspot.com/-pftCRcL01WPPMTF3eaVFcrNdVzB9AO-wpGvjeuz0zPe31AB2nbTXNKvMDUjArY55Aj4-EOEEECIr0C9HN2Dw3nADygdQkDYEA=m22
+https://1.bp.blogspot.com/-pftCRcL01WPPMTF3eaVFcrNdVzB9AO-wpGvjeuz0zPe31AB2nbTXNKvMDUjArY55Aj4-EOEEECIr0C9HN2Dw3nADygdQkDYEA=m22
 
 #EXTINF:0,382 - Las 9 vidas de Louis Drax
-udp://@https://1.bp.blogspot.com/q_0zphKuMGTsN0ah6_-woReOwvBAeIyrOCGusnr2GuP0bl0MUPEMXFHy8m2QJlofvgdA3uDsuv6XWg3SYnL89WABxcJrkVuqkfjDqvWWEdPe9U4cjFxFQ4pjPOiyJu-8ZlmP0g=m22
+https://1.bp.blogspot.com/q_0zphKuMGTsN0ah6_-woReOwvBAeIyrOCGusnr2GuP0bl0MUPEMXFHy8m2QJlofvgdA3uDsuv6XWg3SYnL89WABxcJrkVuqkfjDqvWWEdPe9U4cjFxFQ4pjPOiyJu-8ZlmP0g=m22
 
 #EXTINF:0,383 - Las apariencias enganan
-udp://@https://1.bp.blogspot.com/_sNLNIycCTW9uiZXcdenjHhIQxkdVWZ6nJ99AfcTg4yHqZ_T-uNGf3QL0K_epTYEd0cw7aLYyD-SP17nvFJB9pgcJqm-3s7uFsqWIZDAquHwmxqmjbZ31gd_BkQI1gAqmtMlsw=m22
+https://1.bp.blogspot.com/_sNLNIycCTW9uiZXcdenjHhIQxkdVWZ6nJ99AfcTg4yHqZ_T-uNGf3QL0K_epTYEd0cw7aLYyD-SP17nvFJB9pgcJqm-3s7uFsqWIZDAquHwmxqmjbZ31gd_BkQI1gAqmtMlsw=m22
 
 #EXTINF:0,384 - Lavender
-udp://@http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/616.mp4
+http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/616.mp4
 
 #EXTINF:0,385 - Legion de Angeles
-udp://@https://1.bp.blogspot.com/y0-4JVj-72B5tzlO4XpRFhbl-sVdzdIZA1VUpd-YBRiAQnmOh3ACB8u6BcTIkDVPLpIpRPKm1Q=m22?cpn=-j6IjfJiwwgI0qKF&c=WEB&cver=1.20161130
+https://1.bp.blogspot.com/y0-4JVj-72B5tzlO4XpRFhbl-sVdzdIZA1VUpd-YBRiAQnmOh3ACB8u6BcTIkDVPLpIpRPKm1Q=m22?cpn=-j6IjfJiwwgI0qKF&c=WEB&cver=1.20161130
 
 #EXTINF:0,386 - Lego Batman La pelÃ­cula
-udp://@http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/552.avi
+http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/552.avi
 
 #EXTINF:0,387 - Lego Scooby doo hollywood encantado
-udp://@https://discontrol@goo.gl/BcOeak
+https://discontrol@goo.gl/BcOeak
 
 #EXTINF:0,388 - Life (Vida)
-udp://@http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/585.mp4
+http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/585.mp4
 
 #EXTINF:0,389 - Liga de la Justicia Dioses y monstruos
-udp://@https://1.bp.blogspot.com/vyJC5NPEgFjsABpsdVZlcyBQu7m5H--1WAPRpXKlSYw-s9Gee4w0CuzQASm7vVjVWPNBRs8rofreUZaFVJemZfO4OgmKZRPo=m22
+https://1.bp.blogspot.com/vyJC5NPEgFjsABpsdVZlcyBQu7m5H--1WAPRpXKlSYw-s9Gee4w0CuzQASm7vVjVWPNBRs8rofreUZaFVJemZfO4OgmKZRPo=m22
 
 #EXTINF:0,390 - Lluvia de hamburguesas 2
-udp://@https://discontrol@goo.gl/36QWRR
+https://discontrol@goo.gl/36QWRR
 
 #EXTINF:0,391 - Lo imposible
-udp://@https://1.bp.blogspot.com/TAyLF14ZTK7eAU-oxG33i5mbEIq2H8otwNKOqxI0ADDcSBsolOQ5QLpA80j5nqhAhsM0BiO6gQ=m22
+https://1.bp.blogspot.com/TAyLF14ZTK7eAU-oxG33i5mbEIq2H8otwNKOqxI0ADDcSBsolOQ5QLpA80j5nqhAhsM0BiO6gQ=m22
 
 #EXTINF:0,392 - Logan
-udp://@http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/577.mkv
+http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/577.mkv
 
 #EXTINF:0,393 - Los Caballeros del Zodiaco: La leyenda del santuario
-udp://@https://1.bp.blogspot.com/rcO5FfvdBg2_CBPV6Oafrbp3mQZzKYx1rTvrkeBwx7bjIB6kT8taaJxWwz8vXDjYinFJzGI16A=m37
+https://1.bp.blogspot.com/rcO5FfvdBg2_CBPV6Oafrbp3mQZzKYx1rTvrkeBwx7bjIB6kT8taaJxWwz8vXDjYinFJzGI16A=m37
 
 #EXTINF:0,394 - Los cuatro fantasticos
-udp://@https://1.bp.blogspot.com/Wj5OrSSh2ShZmR_T63JLNMdRECjzGoIbhd4upDpopnU=m37
+https://1.bp.blogspot.com/Wj5OrSSh2ShZmR_T63JLNMdRECjzGoIbhd4upDpopnU=m37
 
 #EXTINF:0,395 - Los parecidos
-udp://@https://1.bp.blogspot.com/TnZ33B2SdPPF15dsAeIldG3viN7mbZiEygEMVVAtInX9n3x6MfmMvABo4e7yKklmaXyLQyVV97pgohO_RKqZejMHu8sTCzCwXy0ejJ72Efjkr0lTpvqYWr6lWCoBKTP6Oqwrdw=m22
+https://1.bp.blogspot.com/TnZ33B2SdPPF15dsAeIldG3viN7mbZiEygEMVVAtInX9n3x6MfmMvABo4e7yKklmaXyLQyVV97pgohO_RKqZejMHu8sTCzCwXy0ejJ72Efjkr0lTpvqYWr6lWCoBKTP6Oqwrdw=m22
 
 #EXTINF:0,396 - Los vengadores
-udp://@https://1.bp.blogspot.com/VNJGRLxRF7JDZxgnsNRY0mSt3DeR4Ajtr-QweRV9M7RvyjVL4wU2gfbFnwiL3jKLdsxL77NfZA=m22
+https://1.bp.blogspot.com/VNJGRLxRF7JDZxgnsNRY0mSt3DeR4Ajtr-QweRV9M7RvyjVL4wU2gfbFnwiL3jKLdsxL77NfZA=m22
 
 #EXTINF:0,397 - Mama
-udp://@https://1.bp.blogspot.com/DIU4ryRYxHByT_k2Y5u1-cg-f7lKSQhySTaOw3fju9B-BYDb_O1kMFUp07MWeixnggg=m37
+https://1.bp.blogspot.com/DIU4ryRYxHByT_k2Y5u1-cg-f7lKSQhySTaOw3fju9B-BYDb_O1kMFUp07MWeixnggg=m37
 
 #EXTINF:0,398 - Multiple
-udp://@http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/609.mkv
+http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/609.mkv
 
 #EXTINF:0,399 - Mariposa
-udp://@http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/612.mkv
+http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/612.mkv
 
 #EXTINF:0,400 - Marley y yo
-udp://@https://1.bp.blogspot.com/7zxsXHrwRAYfInGGqr3Uec3Ib-71H5CiTeSZCBH2EIlg5fuRb4vR2lsT2CabIPrLG-nQdZ4t=m22
+https://1.bp.blogspot.com/7zxsXHrwRAYfInGGqr3Uec3Ib-71H5CiTeSZCBH2EIlg5fuRb4vR2lsT2CabIPrLG-nQdZ4t=m22
 
 #EXTINF:0,401 - Max Steel
-udp://@http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/614.mkv
+http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/614.mkv
 
 #EXTINF:0,402 - Ax Steel (2016)
-udp://@https://1.bp.blogspot.com/ZZxCLW3xITkwMfwhy1unJp2JA7KpNXK11hexIz-eODm1lPYHVR0sAF3NrnCQudpEjfizuJxdatttqA=m22
+https://1.bp.blogspot.com/ZZxCLW3xITkwMfwhy1unJp2JA7KpNXK11hexIz-eODm1lPYHVR0sAF3NrnCQudpEjfizuJxdatttqA=m22
 
 #EXTINF:0,403 - Mejor... solteras
-udp://@https://1.bp.blogspot.com/NX6H4lAUbZ0TwE-dkLpy1Qgtc3hulEcbexlgncVh2_t0vrklS06xvPJxKhdn89fpABpz22dM2-Bz=m37
+https://1.bp.blogspot.com/NX6H4lAUbZ0TwE-dkLpy1Qgtc3hulEcbexlgncVh2_t0vrklS06xvPJxKhdn89fpABpz22dM2-Bz=m37
 
 #EXTINF:0,404 - Memorias de un asesino internacional
-udp://@https://1.bp.blogspot.com/fU4nlc_QBkX7m5_BkJH8LZcAr-irNd_tjgTCHEwvDHVSEORnMxRVDn0rfVExgyo0QY8iezNXnSP2O7Avrb0vnL45_ACshZ53mW45gnwacWA5ehcLc_HgSH5iY_xYRItMuPAkO739CZMZh6s27d08ScUUHOjbtSI5Mi9WWNgyhwsdSqu4-N_KopiP9SRE6lecDvDbWDcOGlNhL3-KBk56kmsfZI-EWR8acmnkWbhaRvJQI6qfsJcvuykN6YNsQxx6dpRlG2aOLIVjlYvdmf1K-JCg-L4LFVVexyW1FUbGwM-tLXtDmQiszR0nW2O8PRV6DRhIZmnYbC7gMwk2PRkue4wILV1MkJToQWGENVGfGyY8iAR13qBMGYH-OVA7VgNEkOTMY6OAnE2xKaOLaWRTHbVr1FBEO4W4gZelkuJjGs8O-nlYPoY6AX_c_T7QFZrPnL83zVcW2trd1drLyZQTIu4IrzcqVCRf0V8QeOW45h28DKbENaApHK7FIQIu8fZbFWRAINkz9RoLV6-O1BvnRRilLXpVzFhMLTEcuso2dK3_a9-7ekPuA1NfHKDQcoVcOv3FcJjS46nazu2bq7bNpR5HFaZt4zJEeWz861mazYhTndST=m22
+https://1.bp.blogspot.com/fU4nlc_QBkX7m5_BkJH8LZcAr-irNd_tjgTCHEwvDHVSEORnMxRVDn0rfVExgyo0QY8iezNXnSP2O7Avrb0vnL45_ACshZ53mW45gnwacWA5ehcLc_HgSH5iY_xYRItMuPAkO739CZMZh6s27d08ScUUHOjbtSI5Mi9WWNgyhwsdSqu4-N_KopiP9SRE6lecDvDbWDcOGlNhL3-KBk56kmsfZI-EWR8acmnkWbhaRvJQI6qfsJcvuykN6YNsQxx6dpRlG2aOLIVjlYvdmf1K-JCg-L4LFVVexyW1FUbGwM-tLXtDmQiszR0nW2O8PRV6DRhIZmnYbC7gMwk2PRkue4wILV1MkJToQWGENVGfGyY8iAR13qBMGYH-OVA7VgNEkOTMY6OAnE2xKaOLaWRTHbVr1FBEO4W4gZelkuJjGs8O-nlYPoY6AX_c_T7QFZrPnL83zVcW2trd1drLyZQTIu4IrzcqVCRf0V8QeOW45h28DKbENaApHK7FIQIu8fZbFWRAINkz9RoLV6-O1BvnRRilLXpVzFhMLTEcuso2dK3_a9-7ekPuA1NfHKDQcoVcOv3FcJjS46nazu2bq7bNpR5HFaZt4zJEeWz861mazYhTndST=m22
 
 #EXTINF:0,405 - Miracle at St. Anna
-udp://@https://1.bp.blogspot.com/JhCjN22TFdYaVQZHrPQGSbcEEoIbKJGUeH6ZicmT0gUbJeDPnUzjrZlIMF284s6Cy3VJOvsR49dzNECKmfdEVX7iB5fI62-01tnJaxueL4O3eLtj8XQ7SNg1MCfuGf9ozoq1Qg=m15
+https://1.bp.blogspot.com/JhCjN22TFdYaVQZHrPQGSbcEEoIbKJGUeH6ZicmT0gUbJeDPnUzjrZlIMF284s6Cy3VJOvsR49dzNECKmfdEVX7iB5fI62-01tnJaxueL4O3eLtj8XQ7SNg1MCfuGf9ozoq1Qg=m15
 
 #EXTINF:0,406 - Miracle on 34th Street
-udp://@https://1.bp.blogspot.com/RdJZ6pKsKqyIeTw_MalufCgrPqX1yCiKzFkoHex9fzcbZkLzloC93ipTaY-rXHmcjHKpyxIrtA=m22?cpn=n3NkgmYxlYS7_buN&c=WEB&cver=1.20161117
+https://1.bp.blogspot.com/RdJZ6pKsKqyIeTw_MalufCgrPqX1yCiKzFkoHex9fzcbZkLzloC93ipTaY-rXHmcjHKpyxIrtA=m22?cpn=n3NkgmYxlYS7_buN&c=WEB&cver=1.20161117
 
 #EXTINF:0,407 - Moby Dick
-udp://@https://1.bp.blogspot.com/Ud1LULvyAFJTC3V6xFog_FWbLCA6CNX07_L8Rlrfv6Y=m22
+https://1.bp.blogspot.com/Ud1LULvyAFJTC3V6xFog_FWbLCA6CNX07_L8Rlrfv6Y=m22
 
 #EXTINF:0,408 - Monster High: Electrificadas
-udp://@http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/605.mkv
+http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/605.mkv
 
 #EXTINF:0,409 - Monster Trucks
-udp://@http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/587.mkv
+http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/587.mkv
 
 #EXTINF:0,410 - Moonwalker
-udp://@https://1.bp.blogspot.com/usHpafephZUALnql_QS8kh0g7ClbrBgdTWh2tNjUKtN4BkOLhDB9GGskrMbUfxkUcaam68vcAYodvHuEzcRmkWUGVKH-r6-S_qZQJHoPvWKzTN7_10Lg7B32A3iprlOUMZXqfw=m37
+https://1.bp.blogspot.com/usHpafephZUALnql_QS8kh0g7ClbrBgdTWh2tNjUKtN4BkOLhDB9GGskrMbUfxkUcaam68vcAYodvHuEzcRmkWUGVKH-r6-S_qZQJHoPvWKzTN7_10Lg7B32A3iprlOUMZXqfw=m37
 
 #EXTINF:0,411 - Muerte 7
-udp://@http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/617.mp4
+http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/617.mp4
 
 #EXTINF:0,412 - Nerve: un juego sin reglas
-udp://@https://1.bp.blogspot.com/6bm9dQYd6Kr67_0zdLz8pLG8rsmkyZ8UqMfPTSfCNuaxQZFIKl7jhTmU3wpTRhoB75N3xUYM5betfg=m22
+https://1.bp.blogspot.com/6bm9dQYd6Kr67_0zdLz8pLG8rsmkyZ8UqMfPTSfCNuaxQZFIKl7jhTmU3wpTRhoB75N3xUYM5betfg=m22
 
 #EXTINF:0,413 - Oliver y su pandilla
-udp://@https://1.bp.blogspot.com/mSWsc6zOlRYZhecogpMOnn1AN--yhzAH9zPw--BLe0-omgyEBwSmzq2TFDUYjxGOhqei56bbEiwHqwC2P0neUzJoVG4MJmfwXDW4dqFYfgFx-SElMo9qzOeaQimKoH-0AGK63w=m22
+https://1.bp.blogspot.com/mSWsc6zOlRYZhecogpMOnn1AN--yhzAH9zPw--BLe0-omgyEBwSmzq2TFDUYjxGOhqei56bbEiwHqwC2P0neUzJoVG4MJmfwXDW4dqFYfgFx-SElMo9qzOeaQimKoH-0AGK63w=m22
 
 #EXTINF:0,414 - One Piece Film Gold
-udp://@http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/598.avi
+http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/598.avi
 
 #EXTINF:0,415 - Operacion Anthropoid
-udp://@http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/618.mp4
+http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/618.mp4
 
 #EXTINF:0,416 - Ordinary World
-udp://@https://1.bp.blogspot.com/q7DGaptdjqP7aqUSMFQyXzqzNwMN1sCfGtA6EPdTB53kEkhEgtwCY7k1nY6b9qzHx4UcvLv78Hu8qph-F7dxjALs3vnWmjjR_nu05m-ikSB05HSkHBqI1Zv08NrbBg--jjsKRg=m22
+https://1.bp.blogspot.com/q7DGaptdjqP7aqUSMFQyXzqzNwMN1sCfGtA6EPdTB53kEkhEgtwCY7k1nY6b9qzHx4UcvLv78Hu8qph-F7dxjALs3vnWmjjR_nu05m-ikSB05HSkHBqI1Zv08NrbBg--jjsKRg=m22
 
 #EXTINF:0,417 - Passengers
-udp://@http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/550.avi
+http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/550.avi
 
 #EXTINF:0,418 - Peter Pan
-udp://@https://1.bp.blogspot.com/fMae9hRy-0RwxMyKQlqavXQ88x7J2MSYjFN4xENqLGztjXgpcBGw4qsPPl1jEveUFHrF9Ngd7JOwKH59TUxTHXNVv-AaEfQJ32Lbzyh3Wuu7rQ-10Sq_KQUDcVc0eKKZb25iNw=m37
+https://1.bp.blogspot.com/fMae9hRy-0RwxMyKQlqavXQ88x7J2MSYjFN4xENqLGztjXgpcBGw4qsPPl1jEveUFHrF9Ngd7JOwKH59TUxTHXNVv-AaEfQJ32Lbzyh3Wuu7rQ-10Sq_KQUDcVc0eKKZb25iNw=m37
 
 #EXTINF:0,419 - Pieles
-udp://@http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/613.mkv
+http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/613.mkv
 
 #EXTINF:0,420 - Pinocho
-udp://@https://discontrol@goo.gl/HetkQ9
+https://discontrol@goo.gl/HetkQ9
 
 #EXTINF:0,421 - Piratas
-udp://@https://1.bp.blogspot.com/KWQBsgSUL1JP_BSrjTLqCYMqKW4T6A3u_4QwauEmnULyJuUv599_Rdh_c-oR6YX1SCbRlavmDw=m22
+https://1.bp.blogspot.com/KWQBsgSUL1JP_BSrjTLqCYMqKW4T6A3u_4QwauEmnULyJuUv599_Rdh_c-oR6YX1SCbRlavmDw=m22
 
 #EXTINF:0,422 - Platoon
-udp://@https://1.bp.blogspot.com/8DQUPKWBYablghQcegQrQXbLy-Fz8YKrSbS9bnXR3dKulhoG0h6eCqjvbq3K_YlpEzBHBP7D5QdVV-6AtzP-31nuyACI9q3pQf6lc6gogMu6GGwm2He1To5Xy55w25utetsetA=m37
+https://1.bp.blogspot.com/8DQUPKWBYablghQcegQrQXbLy-Fz8YKrSbS9bnXR3dKulhoG0h6eCqjvbq3K_YlpEzBHBP7D5QdVV-6AtzP-31nuyACI9q3pQf6lc6gogMu6GGwm2He1To5Xy55w25utetsetA=m37
 
 #EXTINF:0,423 - Pompoko
-udp://@https://discontrol@goo.gl/79Sf0L
+https://discontrol@goo.gl/79Sf0L
 
 #EXTINF:0,424 - Pound of Flesh
-udp://@https://1.bp.blogspot.com/mwOPPRy6Bkua1KWJEng-ceRMdnXRtXmNHuVv98FZ6Nl7Uk3RT7X5zJIQg7N1AZXT-ANu5D2u=m22
+https://1.bp.blogspot.com/mwOPPRy6Bkua1KWJEng-ceRMdnXRtXmNHuVv98FZ6Nl7Uk3RT7X5zJIQg7N1AZXT-ANu5D2u=m22
 
 #EXTINF:0,425 - Power Rangers
-udp://@http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/834.avi
+http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/834.avi
 
 #EXTINF:0,426 - Pulp Fiction
-udp://@https://1.bp.blogspot.com/Yc2YVGxgtSjqg3sxgc_9BwwMCxVwmKjPQJMdiSeE4NY0COl0HinoZmFxyeoXfEOzsUf6_D-I3II7KH8qyJp5akYOfOvNhOop-fZSFayz_LPczm5wlEn3NY8LQDbIMiRac8TAQQ=m37
+https://1.bp.blogspot.com/Yc2YVGxgtSjqg3sxgc_9BwwMCxVwmKjPQJMdiSeE4NY0COl0HinoZmFxyeoXfEOzsUf6_D-I3II7KH8qyJp5akYOfOvNhOop-fZSFayz_LPczm5wlEn3NY8LQDbIMiRac8TAQQ=m37
 
 #EXTINF:0,427 - Quien engano a Roger Rabbit
-udp://@https://1.bp.blogspot.com/FXsdBEa4BGCkgSeLAylMuPaaUnHlj8QRCXmCnzY5BQ=m37
+https://1.bp.blogspot.com/FXsdBEa4BGCkgSeLAylMuPaaUnHlj8QRCXmCnzY5BQ=m37
 
 #EXTINF:0,428 - Rango
-udp://@https://discontrol@goo.gl/FS69B2
+https://discontrol@goo.gl/FS69B2
 
 #EXTINF:0,429 - Razorback: Los colmillos del infierno
-udp://@https://1.bp.blogspot.com/wmH3tPhyih7xd6s8CmD7HdmCSM75fq3i5P3WXLdCj63Up874Y9hSeV6bDiz3PHh720yzrTrMtQ=m22
+https://1.bp.blogspot.com/wmH3tPhyih7xd6s8CmD7HdmCSM75fq3i5P3WXLdCj63Up874Y9hSeV6bDiz3PHh720yzrTrMtQ=m22
 
 #EXTINF:0,430 - Redencion
-udp://@http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/635.mp4
+http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/635.mp4
 
 #EXTINF:0,431 - Repo Men
-udp://@https://1.bp.blogspot.com/lQLoF7-5fDF9wijUfepm0l1Coi54zWTNhIsdXcGICH2QXksvJQRF-P3BCfpnzJU9r2XYaYQWheCZ9tihFnJ1ul90l3uMgoWx6qt_tc3P_4TgAPqkwGjIWu3PgleocmwPuYD1pg=m22
+https://1.bp.blogspot.com/lQLoF7-5fDF9wijUfepm0l1Coi54zWTNhIsdXcGICH2QXksvJQRF-P3BCfpnzJU9r2XYaYQWheCZ9tihFnJ1ul90l3uMgoWx6qt_tc3P_4TgAPqkwGjIWu3PgleocmwPuYD1pg=m22
 
 #EXTINF:0,432 - Resident Evil
-udp://@https://1.bp.blogspot.com/heMBpW5212Ijj8iGmO0iw9duwP2TcXoH46n4-evvrttvMnwL7kOhl5f9WF8ORlTvXjvNjo2sTg=m37
+https://1.bp.blogspot.com/heMBpW5212Ijj8iGmO0iw9duwP2TcXoH46n4-evvrttvMnwL7kOhl5f9WF8ORlTvXjvNjo2sTg=m37
 
 #EXTINF:0,433 - Resident Evil 2: Apocalipsis
-udp://@https://1.bp.blogspot.com/re63CEwtrQqB77NG6AXCx7sczw1NWwnKAIRyQgbpaE45tMYdhai72IvkTDIOx_jpx9UgUkJKvw=m37
+https://1.bp.blogspot.com/re63CEwtrQqB77NG6AXCx7sczw1NWwnKAIRyQgbpaE45tMYdhai72IvkTDIOx_jpx9UgUkJKvw=m37
 
 #EXTINF:0,434 - Resident Evil 3: Extincion
-udp://@https://1.bp.blogspot.com/i_sJ6s1TO6zmw4vAFHvCxSTKAjjCavXTAoLhjhAZR91rR0XA7mi2xbQY6csODQOlF9GDFCYLtA=m37
+https://1.bp.blogspot.com/i_sJ6s1TO6zmw4vAFHvCxSTKAjjCavXTAoLhjhAZR91rR0XA7mi2xbQY6csODQOlF9GDFCYLtA=m37
 
 #EXTINF:0,435 - Resident Evil 4: Ultratumba
-udp://@https://1.bp.blogspot.com/Tl3LM2aeG3aRrDV7o8dxRqnkZbYNdk6NQlLRUCl4m7aby905JQd1UV2irKZ13zyxjCcofgjj_w=m37
+https://1.bp.blogspot.com/Tl3LM2aeG3aRrDV7o8dxRqnkZbYNdk6NQlLRUCl4m7aby905JQd1UV2irKZ13zyxjCcofgjj_w=m37
 
 #EXTINF:0,436 - Resident Evil: El capÃ­tulo final
-udp://@http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/603.avi
+http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/603.avi
 
 #EXTINF:0,437 - Resident Evil: Vendetta
-udp://@http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/833.mp4
+http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/833.mp4
 
 #EXTINF:0,438 - Resucitado
-udp://@https://1.bp.blogspot.com/d9WMeyHQhGqvysMviY09rTGzN9ct35tTxDLcLVjc7XqDLIswtdJfrTZsP9IIICBaVtCPGoa0IcOephsjUV_AcgMMkYlkxT4Sv7jFPBPDb6Mf6nkrNimqiV6k86BXXHOZjIAjOIY=m37
+https://1.bp.blogspot.com/d9WMeyHQhGqvysMviY09rTGzN9ct35tTxDLcLVjc7XqDLIswtdJfrTZsP9IIICBaVtCPGoa0IcOephsjUV_AcgMMkYlkxT4Sv7jFPBPDb6Mf6nkrNimqiV6k86BXXHOZjIAjOIY=m37
 
 #EXTINF:0,439 - Ribbit
-udp://@http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/602.mkv
+http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/602.mkv
 
 #EXTINF:0,440 - RoboCop (2014)
-udp://@https://1.bp.blogspot.com/mZ4n8G8roMQY_Pu6-UrpEH3KcdtbQ3mxwYwMYZ-ClfLmw64gwISyET70n0VGdhTp9QXiZ4ed7Q=m22
+https://1.bp.blogspot.com/mZ4n8G8roMQY_Pu6-UrpEH3KcdtbQ3mxwYwMYZ-ClfLmw64gwISyET70n0VGdhTp9QXiZ4ed7Q=m22
 
 #EXTINF:0,441 - Rogue One: Una historia de Star Wars
-udp://@http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/589.avi
+http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/589.avi
 
 #EXTINF:0,442 - Sandy Wexler (NEW)
-udp://@http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/643.mp4
+http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/643.mp4
 
 #EXTINF:0,443 - Shin Chan: PapÃ¡ robot
-udp://@http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/595.avi
+http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/595.avi
 
 #EXTINF:0,444 - Siempre a tu lado Hachiko
-udp://@https://1.bp.blogspot.com/dzbeSw0KIHtlQX8TCSwkrMvPtou-44CGSb30Ag2mcWtMmJZtO0ndIGuLrX5zpquq02FFH5kd=m37
+https://1.bp.blogspot.com/dzbeSw0KIHtlQX8TCSwkrMvPtou-44CGSb30Ag2mcWtMmJZtO0ndIGuLrX5zpquq02FFH5kd=m37
 
 #EXTINF:0,445 - Silencio
-udp://@http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/645.mp4
+http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/645.mp4
 
 #EXTINF:0,446 - Star Wars Las guerras Clon
-udp://@https://1.bp.blogspot.com/lDwbPMSgRDcGnMld6l5zRCfDhYf6t13tgc45o3USLEDnaxTJ83sTdCrDS6gGSDKrLpAOiz3UWvVS9kvJngmYG4qCUDUyEKBWBYS2JSUYUlnCJSwEbgK97Gq6nvX6F4Q2ECyN=m37
+https://1.bp.blogspot.com/lDwbPMSgRDcGnMld6l5zRCfDhYf6t13tgc45o3USLEDnaxTJ83sTdCrDS6gGSDKrLpAOiz3UWvVS9kvJngmYG4qCUDUyEKBWBYS2JSUYUlnCJSwEbgK97Gq6nvX6F4Q2ECyN=m37
 
 #EXTINF:0,447 - Stasis
-udp://@http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/841.avi
+http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/841.avi
 
 #EXTINF:0,448 - Strange Magic
-udp://@https://discontrol@goo.gl/bD2gle
+https://discontrol@goo.gl/bD2gle
 
 #EXTINF:0,449 - Superman vs La Elite
-udp://@https://1.bp.blogspot.com/9It9clqQ2wzwTd9wPy_FpSpIRvcC9-6GPW3E8nH0143IX38JxLJea1BDsje6LIiu0SMp_THjtvvmP_i38ksvlLjI0dMjsQVb1msDwnawlvxJgu9SAMuX1O1BWH-8Ysf6th92oA=m37
+https://1.bp.blogspot.com/9It9clqQ2wzwTd9wPy_FpSpIRvcC9-6GPW3E8nH0143IX38JxLJea1BDsje6LIiu0SMp_THjtvvmP_i38ksvlLjI0dMjsQVb1msDwnawlvxJgu9SAMuX1O1BWH-8Ysf6th92oA=m37
 
 #EXTINF:0,450 - Supervivencia
-udp://@http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/844.mp4
+http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/844.mp4
 
 #EXTINF:0,451 - Teen Titans  El contrato de Judas
-udp://@http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/611.mkv
+http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/611.mkv
 
 #EXTINF:0,452 - Temblores
-udp://@https://1.bp.blogspot.com/hvIb0RxZtdNnr-6bwT33oxoxzj95y_I89ZeJhd-uWF774_VwK0gi_T-RtA8khsE6CHx1XkD9=m37
+https://1.bp.blogspot.com/hvIb0RxZtdNnr-6bwT33oxoxzj95y_I89ZeJhd-uWF774_VwK0gi_T-RtA8khsE6CHx1XkD9=m37
 
 #EXTINF:0,453 - Terror en Amityville
-udp://@https://1.bp.blogspot.com/B5GcjvtB03UnlzMR8FzyJqTJnxUo6BxsSoihp1YjSzNLwy3ton94MqA8f54PKtsGbWkzpnIS=m37
+https://1.bp.blogspot.com/B5GcjvtB03UnlzMR8FzyJqTJnxUo6BxsSoihp1YjSzNLwy3ton94MqA8f54PKtsGbWkzpnIS=m37
 
 #EXTINF:0,454 - TESORO PERDIDO
-udp://@http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/840.avi
+http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/840.avi
 
 #EXTINF:0,455 - The Discovery
-udp://@http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/596.avi
+http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/596.avi
 
 #EXTINF:0,456 - THE RING
-udp://@http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/655.avi
+http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/655.avi
 
 #EXTINF:0,457 - The Swan Princess: Royally Undercover
-udp://@http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/599.mkv
+http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/599.mkv
 
 #EXTINF:0,458 - Tod y Toby
-udp://@https://1.bp.blogspot.com/NDDnUjN1OxdkwqkEezzr6oktiiR3DTP_jduP-Bnibhu0Hvbst-s0pQtWAQYEEZWlHhpVCCLNNXqGHiK_riJQvkuLX4y8IGMVkIScFK7c02WPdlay4y2TVRU7PlANPm8uIdAmMQ=m22
+https://1.bp.blogspot.com/NDDnUjN1OxdkwqkEezzr6oktiiR3DTP_jduP-Bnibhu0Hvbst-s0pQtWAQYEEZWlHhpVCCLNNXqGHiK_riJQvkuLX4y8IGMVkIScFK7c02WPdlay4y2TVRU7PlANPm8uIdAmMQ=m22
 
 #EXTINF:0,459 - Toda la verdad
-udp://@http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/575.mkv
+http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/575.mkv
 
 #EXTINF:0,460 - Toy story de Terror
-udp://@https://1.bp.blogspot.com/l8rbj5GPTAPaHcHCcQp7Pdvbf1d-PLgH5hnx-TwMVLjBClK9SIqhHd-BrYD2DLW5FnsQIYEAqlQb6KLHA77f2uwOqalWIvrzUowKWbMASrwwiT26luPjkKx0IVlbpm5PW7PCDw=m22
+https://1.bp.blogspot.com/l8rbj5GPTAPaHcHCcQp7Pdvbf1d-PLgH5hnx-TwMVLjBClK9SIqhHd-BrYD2DLW5FnsQIYEAqlQb6KLHA77f2uwOqalWIvrzUowKWbMASrwwiT26luPjkKx0IVlbpm5PW7PCDw=m22
 
 #EXTINF:0,461 - Trainspotting
-udp://@https://1.bp.blogspot.com/LcPm3kW1Wtvi20WPFpm7HypaA_O5kW7aHbRo0ob7V9XnNH34XW8O8mBe30wgTT3gon8H3aIeTfyIuw=m22
+https://1.bp.blogspot.com/LcPm3kW1Wtvi20WPFpm7HypaA_O5kW7aHbRo0ob7V9XnNH34XW8O8mBe30wgTT3gon8H3aIeTfyIuw=m22
 
 #EXTINF:0,462 - Trolls
-udp://@http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/527.mkv
+http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/527.mkv
 
 #EXTINF:0,463 - Tropa de Elite
-udp://@https://1.bp.blogspot.com/aDjSqiqwDqpjTmYEqS2jqvoFBoSx-pOYJTpXiFB-64uFXpXMnhsdheBqjjcyzgayQL_AbVI7=m37
+https://1.bp.blogspot.com/aDjSqiqwDqpjTmYEqS2jqvoFBoSx-pOYJTpXiFB-64uFXpXMnhsdheBqjjcyzgayQL_AbVI7=m37
 
 #EXTINF:0,464 - Tu eres el siguiente
-udp://@https://1.bp.blogspot.com/wsiQ-BGuPPHj7I-VjB_EfScE5zml2TcKza_PygXstA2sqwyu7_DKy5jXX3UFh9EzmeDozpRY=m22
+https://1.bp.blogspot.com/wsiQ-BGuPPHj7I-VjB_EfScE5zml2TcKza_PygXstA2sqwyu7_DKy5jXX3UFh9EzmeDozpRY=m22
 
 #EXTINF:0,465 - Ultimos dias en el desierto
-udp://@https://1.bp.blogspot.com/t7ldn76SLlRpyRUUSei_Yur51Yn_VQDDOa16CqbtH7MuyuoBNDSWWpbcDjzwHg8kPSnUY9H4WJ9E96QsfWA6L7s8z3Rkw4DTgunqtdJG1ecmg6KbWIC2tNHLP7oLBQUEuPxTLA=m22
+https://1.bp.blogspot.com/t7ldn76SLlRpyRUUSei_Yur51Yn_VQDDOa16CqbtH7MuyuoBNDSWWpbcDjzwHg8kPSnUY9H4WJ9E96QsfWA6L7s8z3Rkw4DTgunqtdJG1ecmg6KbWIC2tNHLP7oLBQUEuPxTLA=m22
 
 #EXTINF:0,466 - Un monstruo viene a verme
-udp://@http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/523.mkv
+http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/523.mkv
 
 #EXTINF:0,467 - Un monstruo viene a verme
-udp://@https://1.bp.blogspot.com/4wG2rMr-ca-6p7IV6Ag71K5T1u05yOnw52pLuS0B8BxGiPiHvcdV4cfiO_uDaIBZn2Mb5NT3tN33LpLGaa_OEq_AQab4-Eh2-kEfRVkPdW9ekFwxyvnmz2rIYmyleExTp2YJDQ=m22
+https://1.bp.blogspot.com/4wG2rMr-ca-6p7IV6Ag71K5T1u05yOnw52pLuS0B8BxGiPiHvcdV4cfiO_uDaIBZn2Mb5NT3tN33LpLGaa_OEq_AQab4-Eh2-kEfRVkPdW9ekFwxyvnmz2rIYmyleExTp2YJDQ=m22
 
 #EXTINF:0,468 - Una serie de catastroficas desdichas de Lemony Snicket
-udp://@https://1.bp.blogspot.com/EMI5DCNmUEEwfCCQ8UDXqG18uTx52IfyfXUKbz-mip2JO78T8V6bh1uHaWCdUlX-sVkVkDtLhk5sVf_rMwxybwCBukGNXOhBsQ=m22
+https://1.bp.blogspot.com/EMI5DCNmUEEwfCCQ8UDXqG18uTx52IfyfXUKbz-mip2JO78T8V6bh1uHaWCdUlX-sVkVkDtLhk5sVf_rMwxybwCBukGNXOhBsQ=m22
 
 #EXTINF:0,469 - Underworld: Guerras de sangre  (2016)
-udp://@http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/534.avi
+http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/534.avi
 
 #EXTINF:0,470 - Vertigo
-udp://@https://1.bp.blogspot.com/ExiAQEsRKmIdMzQxLtmMflghQcsgcAFKKT2KCYlleHXdCdqQHJUEy2HQJLPaK68JQ3d42V_S=m37
+https://1.bp.blogspot.com/ExiAQEsRKmIdMzQxLtmMflghQcsgcAFKKT2KCYlleHXdCdqQHJUEy2HQJLPaK68JQ3d42V_S=m37
 
 #EXTINF:0,471 - Viernes 13 (2009)
-udp://@https://1.bp.blogspot.com/iV495TwtvTp2R3GXQ0KplCjj0BedveDrLtSxNqJENQ=m37
+https://1.bp.blogspot.com/iV495TwtvTp2R3GXQ0KplCjj0BedveDrLtSxNqJENQ=m37
 
 #EXTINF:0,472 - Viernes 13 3
-udp://@https://1.bp.blogspot.com/Tubv_F9t1lp4iw7Jw6k6WrLxxKblK5Yr0VTrTkR-=m37
+https://1.bp.blogspot.com/Tubv_F9t1lp4iw7Jw6k6WrLxxKblK5Yr0VTrTkR-=m37
 
 #EXTINF:0,473 - Viernes 13 4
-udp://@https://1.bp.blogspot.com/ANNKxKtQ5gaD7QiCVhal2ZfkQaCfGXFThAzlVGZW=m37
+https://1.bp.blogspot.com/ANNKxKtQ5gaD7QiCVhal2ZfkQaCfGXFThAzlVGZW=m37
 
 #EXTINF:0,474 - Viernes 13 5
-udp://@https://1.bp.blogspot.com/lZCTBB6JrHtP610ue9-caIWGgMBLou7r8z8fsD9v=m37
+https://1.bp.blogspot.com/lZCTBB6JrHtP610ue9-caIWGgMBLou7r8z8fsD9v=m37
 
 #EXTINF:0,475 - Viernes 13 6
-udp://@https://1.bp.blogspot.com/XtD9J_WljX_ZEqCjtDZCWJ4RJXfSn_qy3a3TiIkh=m37
+https://1.bp.blogspot.com/XtD9J_WljX_ZEqCjtDZCWJ4RJXfSn_qy3a3TiIkh=m37
 
 #EXTINF:0,476 - Viernes 13 7
-udp://@https://1.bp.blogspot.com/Q31-r4H2ApNv8fKyiPjzL-a_JmjneoFE4lg3rzpjQA=m37
+https://1.bp.blogspot.com/Q31-r4H2ApNv8fKyiPjzL-a_JmjneoFE4lg3rzpjQA=m37
 
 #EXTINF:0,477 - Viernes 13 8
-udp://@https://1.bp.blogspot.com/t_b7_KbtEFNumrRcWhUtvda0Lql1trf_aAkFZk3Nfw=m37
+https://1.bp.blogspot.com/t_b7_KbtEFNumrRcWhUtvda0Lql1trf_aAkFZk3Nfw=m37
 
 #EXTINF:0,478 - Viernes 13 el final jason se va al infierno
-udp://@https://1.bp.blogspot.com/YKU5GxECJyg6QUlKZE04mUyRz_pJPDfFkhn_fUNHzA=m37
+https://1.bp.blogspot.com/YKU5GxECJyg6QUlKZE04mUyRz_pJPDfFkhn_fUNHzA=m37
 
 #EXTINF:0,479 - Volver al futuro 1
-udp://@https://ia601500.us.archive.org/34/items/84CK.70/84CK.70.FU7U93-ES-720.mp4?disco
+https://ia601500.us.archive.org/34/items/84CK.70/84CK.70.FU7U93-ES-720.mp4?disco
 
 #EXTINF:0,480 - Volver al futuro 2
-udp://@https://ia601500.us.archive.org/34/items/84CK.70/84CK.70.FU7U93.2-ES-720.mp4?disco
+https://ia601500.us.archive.org/34/items/84CK.70/84CK.70.FU7U93.2-ES-720.mp4?disco
 
 #EXTINF:0,481 - Volver al futuro 3
-udp://@https://ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4?disco
+https://ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4?disco
 
 #EXTINF:0,482 - Vuelta a casa de mi madre
-udp://@http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/624.mp4
+http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/624.mp4
 
 #EXTINF:0,483 - WIN IT ALL
-udp://@http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/620.mp4
+http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/620.mp4
 
 #EXTINF:0,484 - Winter el delfin 2
-udp://@https://discotka@goo.gl/3NqSqU
+https://discotka@goo.gl/3NqSqU
 
 #EXTINF:0,485 - Wolf Warriors
-udp://@https://1.bp.blogspot.com/LO-PHUL7a-EFbALbRG-s7UnIoGCj2CLNpsRVpoy1HX7il62Fq6xjuW5hcoLl_2GsiwooeuHc9rC9qiskKFmz9Mb_F37UideqzOnpa1AMtAVWDOMedTJ2mLkVH_aiipPby-MHJw=m22
+https://1.bp.blogspot.com/LO-PHUL7a-EFbALbRG-s7UnIoGCj2CLNpsRVpoy1HX7il62Fq6xjuW5hcoLl_2GsiwooeuHc9rC9qiskKFmz9Mb_F37UideqzOnpa1AMtAVWDOMedTJ2mLkVH_aiipPby-MHJw=m22
 
 #EXTINF:0,486 - Wolves
-udp://@http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/649.mp4
+http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/649.mp4
 
 #EXTINF:0,487 - Wonder Woman
-udp://@http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/832.avi
+http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/832.avi
 
 #EXTINF:0,488 - XXx 2
-udp://@https://1.bp.blogspot.com/a3emAOVldYyVxxng9-pOtKzbeCPzOpYKLwflxOwJKWmDmWNGmipU0xq-afgfdqe-0EC1gpuoz2UcPsmh2tqqwMs4b5xkOPFNpsPvVLIYbNTPBrc9bH49ITpNjkv_d2C3E6LBDQ=m22
+https://1.bp.blogspot.com/a3emAOVldYyVxxng9-pOtKzbeCPzOpYKLwflxOwJKWmDmWNGmipU0xq-afgfdqe-0EC1gpuoz2UcPsmh2tqqwMs4b5xkOPFNpsPvVLIYbNTPBrc9bH49ITpNjkv_d2C3E6LBDQ=m22
 
 #EXTINF:0,489 - XXx: Reactivated
-udp://@http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/528.avi
+http://junglacristal.ddns.net:25461/movie/dortiz73/Aguilita73/528.avi
 

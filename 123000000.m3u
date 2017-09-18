@@ -1,9 +1,4 @@
 #EXTM3U
-#EXTINF:0,1 - 0 Series
-udp://@http://edgoo2.telesport.pw/live/plus11/index.m3u8
-
-#EXTINF:0,2 - 0 Series 2
-udp://@http://edge99007.livesports.pw/live/verpluscerob81d6577d6c8c9/index.m3u8
 
 #EXTINF:0,3 - 101 españa
 udp://@http://cls.todostreaming.eu/101tv/livestream2/chunklist.m3u8
